@@ -1,0 +1,3402 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"payment",
+				"payment_id"
+			],
+			[
+				"service",
+				"service_id"
+			],
+			[
+				"pay",
+				"payments_id"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"res",
+				"Result"
+			],
+			[
+				"c2b",
+				"c2b_url"
+			],
+			[
+				"ge",
+				"generateAuthCredentials_response"
+			],
+			[
+				"trac",
+				"transaction_description"
+			],
+			[
+				"acc",
+				"accountReference"
+			],
+			[
+				"pa",
+				"partyB"
+			],
+			[
+				"transac",
+				"transaction_description"
+			],
+			[
+				"req",
+				"request_ref_id"
+			],
+			[
+				"auth",
+				"auth_url"
+			],
+			[
+				"auth_",
+				"auth_username"
+			],
+			[
+				"C",
+				"C2BRequest"
+			],
+			[
+				"upda",
+				"updated_on"
+			],
+			[
+				"end",
+				"ending_time"
+			],
+			[
+				"sta",
+				"starting_time"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"ser",
+				"service_id"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"detailedmsg_ema",
+				"detailedmsg_email_not_present"
+			],
+			[
+				"responsecode_ema",
+				"responsecode_email_not_present"
+			],
+			[
+				"per",
+				"permission_id"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"con",
+				"contact_no"
+			],
+			[
+				"jdb",
+				"JdbcTemplate"
+			],
+			[
+				"main",
+				"mainservice_request"
+			],
+			[
+				"p",
+				"println"
+			],
+			[
+				"co",
+				"contact_no"
+			],
+			[
+				"resp",
+				"response_message"
+			],
+			[
+				"deta",
+				"detailedmsg_failed_queryorginfo_request_construction"
+			],
+			[
+				"get",
+				"getRequestRefID"
+			],
+			[
+				"S",
+				"String"
+			],
+			[
+				"response",
+				"responsemsg_failure"
+			],
+			[
+				"man",
+				"mainservice_request"
+			],
+			[
+				"ini",
+				"initiator_credential"
+			],
+			[
+				"resu",
+				"result_url"
+			],
+			[
+				"caller",
+				"caller_password"
+			],
+			[
+				"mai",
+				"mainservice"
+			],
+			[
+				"permi",
+				"permission_id"
+			],
+			[
+				"no",
+				"no_card"
+			],
+			[
+				"regi",
+				"registerCardOperationRequest"
+			],
+			[
+				"ret",
+				"retirecard"
+			],
+			[
+				"tut",
+				"tutukaxmlresponse"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"Card",
+				"CardTrackingNo"
+			],
+			[
+				"Stop",
+				"StopReasonID"
+			],
+			[
+				"l",
+				"logresponse"
+			],
+			[
+				"log",
+				"logresponse"
+			],
+			[
+				"lo",
+				"logresponse"
+			],
+			[
+				"Tr",
+				"TransactionID"
+			],
+			[
+				"cons",
+				"constructActiveLinkedCardXML"
+			],
+			[
+				"op",
+				"optin_status"
+			],
+			[
+				"Re",
+				"RequestRefID"
+			],
+			[
+				"setRe",
+				"setRequestRefID"
+			],
+			[
+				"cust",
+				"customer"
+			],
+			[
+				"val",
+				"valueOf"
+			],
+			[
+				"st",
+				"stopcard"
+			],
+			[
+				"m",
+				"message"
+			],
+			[
+				"t",
+				"toString"
+			],
+			[
+				"mess",
+				"messageRepo"
+			],
+			[
+				"Messa",
+				"MessagesRepo"
+			],
+			[
+				"Message",
+				"MessageID"
+			],
+			[
+				"Response",
+				"ResponseCode"
+			],
+			[
+				"Ope",
+				"OperationName"
+			],
+			[
+				"act",
+				"status_card_active"
+			],
+			[
+				"min",
+				"source_system_miniapp"
+			],
+			[
+				"Tutu",
+				"TutukaResponse"
+			],
+			[
+				"getSer",
+				"getServiceResponse"
+			],
+			[
+				"Respon",
+				"ResponseTemplate"
+			],
+			[
+				"reque",
+				"request_ref_id"
+			],
+			[
+				"Utili",
+				"Utilities"
+			],
+			[
+				"call",
+				"StkCallBack"
+			],
+			[
+				"reps",
+				"responsecode_status_success"
+			],
+			[
+				"responsecode",
+				"responsecode_internal_exception"
+			],
+			[
+				"detailed",
+				"detailedmsg_internal_exception"
+			],
+			[
+				"Crad",
+				"CardOperations"
+			],
+			[
+				"fetchCus",
+				"fetchCustomersRequest"
+			],
+			[
+				"fetc",
+				"fetchCustomersRequest"
+			],
+			[
+				"inter",
+				"internal_username"
+			],
+			[
+				"source_system_",
+				"source_system_internal"
+			],
+			[
+				"uti",
+				"utilities_successcode"
+			],
+			[
+				"ca",
+				"callbackrequest"
+			],
+			[
+				"Local",
+				"LocalDateTime"
+			],
+			[
+				"cardoper",
+				"cardoperations"
+			],
+			[
+				"tutu",
+				"tutukaresponse"
+			],
+			[
+				"cardoperat",
+				"cardoperations"
+			],
+			[
+				"cardop",
+				"cardoperations"
+			],
+			[
+				"request",
+				"request_ref_id"
+			],
+			[
+				"card",
+				"cardoperations"
+			],
+			[
+				"exp",
+				"expiry_hours"
+			],
+			[
+				"trans",
+				"transaction_id"
+			],
+			[
+				"expiry",
+				"expiry_duration"
+			],
+			[
+				"expi",
+				"expiry_hours"
+			],
+			[
+				"Nu",
+				"NullString"
+			],
+			[
+				"Tutuka",
+				"TutukaResponse"
+			],
+			[
+				"last",
+				"lastname"
+			],
+			[
+				"las",
+				"last_active"
+			],
+			[
+				"rec",
+				"recycled_date"
+			],
+			[
+				"vtc",
+				"vtc_request_time"
+			],
+			[
+				"id",
+				"id_number"
+			],
+			[
+				"reposito",
+				"repositories"
+			],
+			[
+				"oper",
+				"operation_version"
+			],
+			[
+				"request_",
+				"request_ref_id"
+			],
+			[
+				"RES",
+				"RESULTCODE"
+			],
+			[
+				"CU",
+				"CUSTOMER_PIN_CONFIGURATION"
+			],
+			[
+				"fi",
+				"finally"
+			],
+			[
+				"not",
+				"notMerchant"
+			],
+			[
+				"in",
+				"initiatingNumber"
+			],
+			[
+				"Ini",
+				"InitiatingNumber"
+			],
+			[
+				"register",
+				"registerMerchantOperation"
+			],
+			[
+				"Init",
+				"InitiatingNumber"
+			],
+			[
+				"Optin",
+				"OptinResponse"
+			],
+			[
+				"Op",
+				"OptinResponse"
+			],
+			[
+				"Mer",
+				"MerchantRepo"
+			],
+			[
+				"Res",
+				"responseBody"
+			],
+			[
+				"tran",
+				"transactionID"
+			],
+			[
+				"Fetch",
+				"FetchCustomer"
+			],
+			[
+				"wri",
+				"writeLog"
+			],
+			[
+				"L",
+				"Logs"
+			],
+			[
+				"file",
+				"filePath"
+			],
+			[
+				"tr",
+				"transactionDate"
+			],
+			[
+				"Fi",
+				"filePath"
+			],
+			[
+				"Lo",
+				"Logs"
+			],
+			[
+				"Syst",
+				"System"
+			],
+			[
+				"sy",
+				"systemPath"
+			],
+			[
+				"mo",
+				"monthName"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main/java/com/spa/userpayments/services/operations/DBOperations.java",
+			"settings":
+			{
+				"buffer_size": 6499,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					2,
+					"left_delete",
+					null,
+					"AgAAAPsOAAAAAAAA+w4AAAAAAAABAAAAL/oOAAAAAAAA+g4AAAAAAAABAAAAKg",
+					"AQAAAAAAAAABAAAA/A4AAAAAAAD8DgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGEJAAAAAAAAYQkAAAAAAAADAAAALyoK",
+					"AQAAAAAAAAABAAAAYQkAAAAAAABkCQAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "Payemt"
+					},
+					"BwAAAFILAAAAAAAAUwsAAAAAAAAAAAAAUwsAAAAAAABTCwAAAAAAAAUAAABVc2Vyc1MLAAAAAAAAVAsAAAAAAAAAAAAAVAsAAAAAAABVCwAAAAAAAAAAAABVCwAAAAAAAFYLAAAAAAAAAAAAAFYLAAAAAAAAVwsAAAAAAAAAAAAAVwsAAAAAAABYCwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUgsAAAAAAABXCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFcLAAAAAAAAVwsAAAAAAAABAAAAdA",
+					"AQAAAAAAAAABAAAAWAsAAAAAAABYCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": "ent"
+					},
+					"AwAAAFcLAAAAAAAAWAsAAAAAAAAAAAAAWAsAAAAAAABZCwAAAAAAAAAAAABZCwAAAAAAAFoLAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVwsAAAAAAABXCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"paste",
+					null,
+					"AgAAAIwFAAAAAAAAmgUAAAAAAAAAAAAAmgUAAAAAAACaBQAAAAAAAAsAAABwYXltZW50c19pZA",
+					"AQAAAAAAAAABAAAAjAUAAAAAAACXBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": "/*"
+					},
+					"AgAAAGQJAAAAAAAAZQkAAAAAAAAAAAAAZQkAAAAAAABmCQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZAkAAAAAAABkCQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"insert",
+					{
+						"characters": "*/"
+					},
+					"AgAAAAAPAAAAAAAAAQ8AAAAAAAAAAAAAAQ8AAAAAAAACDwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAA8AAAAAAAAADwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAAIPAAAAAAAAAw8AAAAAAAAAAAAAAw8AAAAAAAAHDwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAg8AAAAAAAACDwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					2,
+					"left_delete",
+					null,
+					"AwAAAGUJAAAAAAAAZQkAAAAAAAABAAAAKgIPAAAAAAAAAg8AAAAAAAAEAAAAICAgIGQJAAAAAAAAZAkAAAAAAAABAAAALw",
+					"AQAAAAAAAAABAAAAZgkAAAAAAABmCQAAAAAAAAAAAAAAAD5A"
+				],
+				[
+					34,
+					2,
+					"left_delete",
+					null,
+					"AgAAAP8OAAAAAAAA/w4AAAAAAAABAAAAL/4OAAAAAAAA/g4AAAAAAAABAAAAKg",
+					"AQAAAAAAAAABAAAAAA8AAAAAAAAADwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"insert",
+					{
+						"characters": "Payments"
+					},
+					"CQAAAHsLAAAAAAAAfAsAAAAAAAAAAAAAfAsAAAAAAAB8CwAAAAAAAAUAAABVc2Vyc3wLAAAAAAAAfQsAAAAAAAAAAAAAfQsAAAAAAAB+CwAAAAAAAAAAAAB+CwAAAAAAAH8LAAAAAAAAAAAAAH8LAAAAAAAAgAsAAAAAAAAAAAAAgAsAAAAAAACBCwAAAAAAAAAAAACBCwAAAAAAAIILAAAAAAAAAAAAAIILAAAAAAAAgwsAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAewsAAAAAAACACwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					1,
+					"insert",
+					{
+						"characters": "Payments"
+					},
+					"CQAAAIwLAAAAAAAAjQsAAAAAAAAAAAAAjQsAAAAAAACNCwAAAAAAAAUAAABVc2Vyc40LAAAAAAAAjgsAAAAAAAAAAAAAjgsAAAAAAACPCwAAAAAAAAAAAACPCwAAAAAAAJALAAAAAAAAAAAAAJALAAAAAAAAkQsAAAAAAAAAAAAAkQsAAAAAAACSCwAAAAAAAAAAAACSCwAAAAAAAJMLAAAAAAAAAAAAAJMLAAAAAAAAlAsAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjAsAAAAAAACRCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					61,
+					1,
+					"paste",
+					null,
+					"AgAAAP4LAAAAAAAABgwAAAAAAAAAAAAABgwAAAAAAAAGDAAAAAAAAAUAAABVc2Vycw",
+					"AQAAAAAAAAABAAAA/gsAAAAAAAADDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					66,
+					1,
+					"insert",
+					{
+						"characters": "payment_"
+					},
+					"CQAAANoLAAAAAAAA2wsAAAAAAAAAAAAA2wsAAAAAAADbCwAAAAAAAAUAAABlbWFpbNsLAAAAAAAA3AsAAAAAAAAAAAAA3AsAAAAAAADdCwAAAAAAAAAAAADdCwAAAAAAAN4LAAAAAAAAAAAAAN4LAAAAAAAA3wsAAAAAAAAAAAAA3wsAAAAAAADgCwAAAAAAAAAAAADgCwAAAAAAAOELAAAAAAAAAAAAAOELAAAAAAAA4gsAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2gsAAAAAAADfCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					67,
+					1,
+					"insert",
+					{
+						"characters": "id"
+					},
+					"AgAAAOILAAAAAAAA4wsAAAAAAAAAAAAA4wsAAAAAAADkCwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4gsAAAAAAADiCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					76,
+					1,
+					"insert",
+					{
+						"characters": "payment"
+					},
+					"CAAAAAgNAAAAAAAACQ0AAAAAAAAAAAAACQ0AAAAAAAAJDQAAAAAAAAQAAAB1c2VyCQ0AAAAAAAAKDQAAAAAAAAAAAAAKDQAAAAAAAAsNAAAAAAAAAAAAAAsNAAAAAAAADA0AAAAAAAAAAAAADA0AAAAAAAANDQAAAAAAAAAAAAANDQAAAAAAAA4NAAAAAAAAAAAAAA4NAAAAAAAADw0AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACA0AAAAAAAAMDQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					77,
+					1,
+					"left_delete",
+					null,
+					"AQAAAA4NAAAAAAAADg0AAAAAAAABAAAAdA",
+					"AQAAAAAAAAABAAAADw0AAAAAAAAPDQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					78,
+					1,
+					"insert",
+					{
+						"characters": "t"
+					},
+					"AQAAAA4NAAAAAAAADw0AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADg0AAAAAAAAODQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					85,
+					1,
+					"insert",
+					{
+						"characters": "payment"
+					},
+					"CAAAALcMAAAAAAAAuAwAAAAAAAAAAAAAuAwAAAAAAAC4DAAAAAAAAAQAAAB1c2VyuAwAAAAAAAC5DAAAAAAAAAAAAAC5DAAAAAAAALoMAAAAAAAAAAAAALoMAAAAAAAAuwwAAAAAAAAAAAAAuwwAAAAAAAC8DAAAAAAAAAAAAAC8DAAAAAAAAL0MAAAAAAAAAAAAAL0MAAAAAAAAvgwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtwwAAAAAAAC7DAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					91,
+					1,
+					"insert",
+					{
+						"characters": "payment"
+					},
+					"CAAAAB0NAAAAAAAAHg0AAAAAAAAAAAAAHg0AAAAAAAAeDQAAAAAAAAQAAAB1c2VyHg0AAAAAAAAfDQAAAAAAAAAAAAAfDQAAAAAAACANAAAAAAAAAAAAACANAAAAAAAAIQ0AAAAAAAAAAAAAIQ0AAAAAAAAiDQAAAAAAAAAAAAAiDQAAAAAAACMNAAAAAAAAAAAAACMNAAAAAAAAJA0AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHQ0AAAAAAAAhDQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					97,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAABQPAAAAAAAAFQ8AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFA8AAAAAAAAUDwAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					98,
+					1,
+					"paste",
+					null,
+					"AQAAABUPAAAAAAAA9BMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFQ8AAAAAAAAVDwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					99,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAPQTAAAAAAAA9RMAAAAAAAAAAAAA9RMAAAAAAAD5EwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9BMAAAAAAAD0EwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					112,
+					1,
+					"insert",
+					{
+						"characters": "Payment"
+					},
+					"GQAAAHITAAAAAAAAcxMAAAAAAAAAAAAAcxMAAAAAAABzEwAAAAAAAAUAAABFbWFpbBMQAAAAAAAAFBAAAAAAAAAAAAAAFBAAAAAAAAAUEAAAAAAAAAUAAABFbWFpbDwPAAAAAAAAPQ8AAAAAAAAAAAAAPQ8AAAAAAAA9DwAAAAAAAAUAAABFbWFpbOkTAAAAAAAA6RMAAAAAAAAEAAAAICAgIGsTAAAAAAAAbBMAAAAAAAAAAAAAEBAAAAAAAAAREAAAAAAAAAAAAAA9DwAAAAAAAD4PAAAAAAAAAAAAAG4TAAAAAAAAbxMAAAAAAAAAAAAAEhAAAAAAAAATEAAAAAAAAAAAAAA+DwAAAAAAAD8PAAAAAAAAAAAAAHETAAAAAAAAchMAAAAAAAAAAAAAFBAAAAAAAAAVEAAAAAAAAAAAAAA/DwAAAAAAAEAPAAAAAAAAAAAAAHQTAAAAAAAAdRMAAAAAAAAAAAAAFhAAAAAAAAAXEAAAAAAAAAAAAABADwAAAAAAAEEPAAAAAAAAAAAAAHcTAAAAAAAAeBMAAAAAAAAAAAAAGBAAAAAAAAAZEAAAAAAAAAAAAABBDwAAAAAAAEIPAAAAAAAAAAAAAHoTAAAAAAAAexMAAAAAAAAAAAAAGhAAAAAAAAAbEAAAAAAAAAAAAABCDwAAAAAAAEMPAAAAAAAAAAAAAA",
+					"AQAAAAAAAAADAAAAPA8AAAAAAABBDwAAAAAAAAAAAAAAAPC/ExAAAAAAAAAYEAAAAAAAAAAAAAAAAPC/chMAAAAAAAB3EwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					119,
+					1,
+					"insert",
+					{
+						"characters": "Pa"
+					},
+					"AwAAAM4QAAAAAAAAzxAAAAAAAAAAAAAAzxAAAAAAAADPEAAAAAAAAAUAAABVc2Vyc88QAAAAAAAA0BAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzhAAAAAAAADTEAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					120,
+					1,
+					"insert",
+					{
+						"characters": "yments"
+					},
+					"BgAAANAQAAAAAAAA0RAAAAAAAAAAAAAA0RAAAAAAAADSEAAAAAAAAAAAAADSEAAAAAAAANMQAAAAAAAAAAAAANMQAAAAAAAA1BAAAAAAAAAAAAAA1BAAAAAAAADVEAAAAAAAAAAAAADVEAAAAAAAANYQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0BAAAAAAAADQEAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					125,
+					1,
+					"insert",
+					{
+						"characters": "payment"
+					},
+					"CAAAAN0QAAAAAAAA3hAAAAAAAAAAAAAA3hAAAAAAAADeEAAAAAAAAAUAAABlbWFpbN4QAAAAAAAA3xAAAAAAAAAAAAAA3xAAAAAAAADgEAAAAAAAAAAAAADgEAAAAAAAAOEQAAAAAAAAAAAAAOEQAAAAAAAA4hAAAAAAAAAAAAAA4hAAAAAAAADjEAAAAAAAAAAAAADjEAAAAAAAAOQQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3RAAAAAAAADiEAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					126,
+					1,
+					"insert_completion",
+					{
+						"completion": "payment_id",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "payment_id"
+					},
+					"AgAAAN0QAAAAAAAA3RAAAAAAAAAHAAAAcGF5bWVudN0QAAAAAAAA5xAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5BAAAAAAAADkEAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					131,
+					1,
+					"insert",
+					{
+						"characters": "payment"
+					},
+					"CAAAAD4RAAAAAAAAPxEAAAAAAAAAAAAAPxEAAAAAAAA/EQAAAAAAAAUAAABlbWFpbD8RAAAAAAAAQBEAAAAAAAAAAAAAQBEAAAAAAABBEQAAAAAAAAAAAABBEQAAAAAAAEIRAAAAAAAAAAAAAEIRAAAAAAAAQxEAAAAAAAAAAAAAQxEAAAAAAABEEQAAAAAAAAAAAABEEQAAAAAAAEURAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPhEAAAAAAABDEQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					132,
+					1,
+					"insert_completion",
+					{
+						"completion": "payment_id",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "payment_id"
+					},
+					"AgAAAD4RAAAAAAAAPhEAAAAAAAAHAAAAcGF5bWVudD4RAAAAAAAASBEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARREAAAAAAABFEQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					146,
+					1,
+					"insert",
+					{
+						"characters": "payment"
+					},
+					"CAAAAAYSAAAAAAAABxIAAAAAAAAAAAAABxIAAAAAAAAHEgAAAAAAAAUAAABlbWFpbAcSAAAAAAAACBIAAAAAAAAAAAAACBIAAAAAAAAJEgAAAAAAAAAAAAAJEgAAAAAAAAoSAAAAAAAAAAAAAAoSAAAAAAAACxIAAAAAAAAAAAAACxIAAAAAAAAMEgAAAAAAAAAAAAAMEgAAAAAAAA0SAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABhIAAAAAAAALEgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					158,
+					1,
+					"insert",
+					{
+						"characters": "payment"
+					},
+					"CAAAAGQLAAAAAAAAZQsAAAAAAAAAAAAAZQsAAAAAAABlCwAAAAAAAAUAAABlbWFpbGULAAAAAAAAZgsAAAAAAAAAAAAAZgsAAAAAAABnCwAAAAAAAAAAAABnCwAAAAAAAGgLAAAAAAAAAAAAAGgLAAAAAAAAaQsAAAAAAAAAAAAAaQsAAAAAAABqCwAAAAAAAAAAAABqCwAAAAAAAGsLAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZAsAAAAAAABpCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					159,
+					1,
+					"insert",
+					{
+						"characters": "_id"
+					},
+					"AwAAAGsLAAAAAAAAbAsAAAAAAAAAAAAAbAsAAAAAAABtCwAAAAAAAAAAAABtCwAAAAAAAG4LAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAawsAAAAAAABrCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					163,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFgLAAAAAAAAWAsAAAAAAAABAAAAZQ",
+					"AQAAAAAAAAABAAAAWQsAAAAAAABZCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					165,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAAFwLAAAAAAAAXQsAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXAsAAAAAAABcCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					177,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAAOkQAAAAAAAA6hAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6RAAAAAAAADpEAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					181,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAAGsLAAAAAAAAbAsAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAawsAAAAAAABrCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					190,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"${0:$SELECTION}\""
+					},
+					"AgAAAKwGAAAAAAAArAYAAAAAAAAVAAAAcmVxdWVzdC5nZXQoInN0YXR1cyIprAYAAAAAAADDBgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAwQYAAAAAAACsBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					191,
+					1,
+					"insert",
+					{
+						"characters": "processing"
+					},
+					"CwAAAK0GAAAAAAAArgYAAAAAAAAAAAAArgYAAAAAAACuBgAAAAAAABUAAAByZXF1ZXN0LmdldCgic3RhdHVzIimuBgAAAAAAAK8GAAAAAAAAAAAAAK8GAAAAAAAAsAYAAAAAAAAAAAAAsAYAAAAAAACxBgAAAAAAAAAAAACxBgAAAAAAALIGAAAAAAAAAAAAALIGAAAAAAAAswYAAAAAAAAAAAAAswYAAAAAAAC0BgAAAAAAAAAAAAC0BgAAAAAAALUGAAAAAAAAAAAAALUGAAAAAAAAtgYAAAAAAAAAAAAAtgYAAAAAAAC3BgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArQYAAAAAAADCBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					198,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"${0:$SELECTION}\""
+					},
+					"AgAAAMoGAAAAAAAAygYAAAAAAAAaAAAAcmVxdWVzdC5nZXQoImRlc2NyaXB0aW9uIinKBgAAAAAAAOYGAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAygYAAAAAAADkBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					199,
+					1,
+					"left_delete",
+					null,
+					"AQAAAMsGAAAAAAAAywYAAAAAAAAaAAAAcmVxdWVzdC5nZXQoImRlc2NyaXB0aW9uIik",
+					"AQAAAAAAAAABAAAAywYAAAAAAADlBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					200,
+					1,
+					"insert",
+					{
+						"characters": "Request"
+					},
+					"BwAAAMsGAAAAAAAAzAYAAAAAAAAAAAAAzAYAAAAAAADNBgAAAAAAAAAAAADNBgAAAAAAAM4GAAAAAAAAAAAAAM4GAAAAAAAAzwYAAAAAAAAAAAAAzwYAAAAAAADQBgAAAAAAAAAAAADQBgAAAAAAANEGAAAAAAAAAAAAANEGAAAAAAAA0gYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAywYAAAAAAADLBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					201,
+					1,
+					"insert",
+					{
+						"characters": " is"
+					},
+					"AwAAANIGAAAAAAAA0wYAAAAAAAAAAAAA0wYAAAAAAADUBgAAAAAAAAAAAADUBgAAAAAAANUGAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0gYAAAAAAADSBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					202,
+					1,
+					"insert",
+					{
+						"characters": " processing"
+					},
+					"CwAAANUGAAAAAAAA1gYAAAAAAAAAAAAA1gYAAAAAAADXBgAAAAAAAAAAAADXBgAAAAAAANgGAAAAAAAAAAAAANgGAAAAAAAA2QYAAAAAAAAAAAAA2QYAAAAAAADaBgAAAAAAAAAAAADaBgAAAAAAANsGAAAAAAAAAAAAANsGAAAAAAAA3AYAAAAAAAAAAAAA3AYAAAAAAADdBgAAAAAAAAAAAADdBgAAAAAAAN4GAAAAAAAAAAAAAN4GAAAAAAAA3wYAAAAAAAAAAAAA3wYAAAAAAADgBgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1QYAAAAAAADVBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					207,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAAcUAAAAAAAACBQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABxQAAAAAAAAHFAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					208,
+					1,
+					"paste",
+					null,
+					"AQAAAAgUAAAAAAAAmhkAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACBQAAAAAAAAIFAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					209,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAJoZAAAAAAAAmxkAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmhkAAAAAAACaGQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					220,
+					1,
+					"insert",
+					{
+						"characters": "Payments"
+					},
+					"GwAAABwZAAAAAAAAHRkAAAAAAAAAAAAAHRkAAAAAAAAdGQAAAAAAAAgAAABTZXJ2aWNlcxUVAAAAAAAAFhUAAAAAAAAAAAAAFhUAAAAAAAAWFQAAAAAAAAgAAABTZXJ2aWNlczMUAAAAAAAANBQAAAAAAAAAAAAANBQAAAAAAAA0FAAAAAAAAAgAAABTZXJ2aWNlcw8ZAAAAAAAAEBkAAAAAAAAAAAAADxUAAAAAAAAQFQAAAAAAAAAAAAA0FAAAAAAAADUUAAAAAAAAAAAAABIZAAAAAAAAExkAAAAAAAAAAAAAERUAAAAAAAASFQAAAAAAAAAAAAA1FAAAAAAAADYUAAAAAAAAAAAAABUZAAAAAAAAFhkAAAAAAAAAAAAAExUAAAAAAAAUFQAAAAAAAAAAAAA2FAAAAAAAADcUAAAAAAAAAAAAABgZAAAAAAAAGRkAAAAAAAAAAAAAFRUAAAAAAAAWFQAAAAAAAAAAAAA3FAAAAAAAADgUAAAAAAAAAAAAABsZAAAAAAAAHBkAAAAAAAAAAAAAFxUAAAAAAAAYFQAAAAAAAAAAAAA4FAAAAAAAADkUAAAAAAAAAAAAAB4ZAAAAAAAAHxkAAAAAAAAAAAAAGRUAAAAAAAAaFQAAAAAAAAAAAAA5FAAAAAAAADoUAAAAAAAAAAAAACEZAAAAAAAAIhkAAAAAAAAAAAAAGxUAAAAAAAAcFQAAAAAAAAAAAAA6FAAAAAAAADsUAAAAAAAAAAAAAA",
+					"AQAAAAAAAAADAAAAOxQAAAAAAAAzFAAAAAAAAAAAAAAAAPC/HRUAAAAAAAAVFQAAAAAAAAAAAAAAAPC/JBkAAAAAAAAcGQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					229,
+					1,
+					"insert",
+					{
+						"characters": "Payments"
+					},
+					"CQAAAPIVAAAAAAAA8xUAAAAAAAAAAAAA8xUAAAAAAADzFQAAAAAAAAgAAABTZXJ2aWNlc/MVAAAAAAAA9BUAAAAAAAAAAAAA9BUAAAAAAAD1FQAAAAAAAAAAAAD1FQAAAAAAAPYVAAAAAAAAAAAAAPYVAAAAAAAA9xUAAAAAAAAAAAAA9xUAAAAAAAD4FQAAAAAAAAAAAAD4FQAAAAAAAPkVAAAAAAAAAAAAAPkVAAAAAAAA+hUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8hUAAAAAAAD6FQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					234,
+					1,
+					"insert",
+					{
+						"characters": "Payments"
+					},
+					"CQAAAA8WAAAAAAAAEBYAAAAAAAAAAAAAEBYAAAAAAAAQFgAAAAAAAAgAAABTZXJ2aWNlcxAWAAAAAAAAERYAAAAAAAAAAAAAERYAAAAAAAASFgAAAAAAAAAAAAASFgAAAAAAABMWAAAAAAAAAAAAABMWAAAAAAAAFBYAAAAAAAAAAAAAFBYAAAAAAAAVFgAAAAAAAAAAAAAVFgAAAAAAABYWAAAAAAAAAAAAABYWAAAAAAAAFxYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADxYAAAAAAAAXFgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					239,
+					1,
+					"insert",
+					{
+						"characters": "Payments"
+					},
+					"CQAAAE8WAAAAAAAAUBYAAAAAAAAAAAAAUBYAAAAAAABQFgAAAAAAAAgAAABTZXJ2aWNlc1AWAAAAAAAAURYAAAAAAAAAAAAAURYAAAAAAABSFgAAAAAAAAAAAABSFgAAAAAAAFMWAAAAAAAAAAAAAFMWAAAAAAAAVBYAAAAAAAAAAAAAVBYAAAAAAABVFgAAAAAAAAAAAABVFgAAAAAAAFYWAAAAAAAAAAAAAFYWAAAAAAAAVxYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATxYAAAAAAABXFgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					251,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGMWAAAAAAAAYxYAAAAAAAA5AAAAICAgICAgICAgICAgLy8gU3lzdGVtLm91dC5wcmludGxuKCJMSVNUIFNFUlZJQ0VTOiAiICsgKTsK",
+					"AQAAAAAAAAABAAAAYxYAAAAAAACcFgAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					252,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGIWAAAAAAAAYhYAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAYxYAAAAAAABjFgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					261,
+					1,
+					"insert",
+					{
+						"characters": "payment"
+					},
+					"CAAAAF4XAAAAAAAAXxcAAAAAAAAAAAAAXxcAAAAAAABfFwAAAAAAAAcAAABzZXJ2aWNlXxcAAAAAAABgFwAAAAAAAAAAAABgFwAAAAAAAGEXAAAAAAAAAAAAAGEXAAAAAAAAYhcAAAAAAAAAAAAAYhcAAAAAAABjFwAAAAAAAAAAAABjFwAAAAAAAGQXAAAAAAAAAAAAAGQXAAAAAAAAZRcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZRcAAAAAAABeFwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					270,
+					1,
+					"insert",
+					{
+						"characters": "pau"
+					},
+					"CAAAAHAXAAAAAAAAcRcAAAAAAAAAAAAAcRcAAAAAAABxFwAAAAAAAAcAAABzZXJ2aWNlehYAAAAAAAB7FgAAAAAAAAAAAAB7FgAAAAAAAHsWAAAAAAAABwAAAHNlcnZpY2VrFwAAAAAAAGwXAAAAAAAAAAAAAHsWAAAAAAAAfBYAAAAAAAAAAAAAbRcAAAAAAABuFwAAAAAAAAAAAAB8FgAAAAAAAH0WAAAAAAAAAAAAAA",
+					"AQAAAAAAAAACAAAAehYAAAAAAACBFgAAAAAAAAAAAAAAAPC/cBcAAAAAAAB3FwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					271,
+					1,
+					"left_delete",
+					null,
+					"AgAAAG4XAAAAAAAAbhcAAAAAAAABAAAAdXwWAAAAAAAAfBYAAAAAAAABAAAAdQ",
+					"AQAAAAAAAAACAAAAfRYAAAAAAAB9FgAAAAAAAAAAAAAAAPC/bxcAAAAAAABvFwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					272,
+					1,
+					"insert",
+					{
+						"characters": "yment"
+					},
+					"CgAAAG0XAAAAAAAAbhcAAAAAAAAAAAAAfBYAAAAAAAB9FgAAAAAAAAAAAABvFwAAAAAAAHAXAAAAAAAAAAAAAH0WAAAAAAAAfhYAAAAAAAAAAAAAcRcAAAAAAAByFwAAAAAAAAAAAAB+FgAAAAAAAH8WAAAAAAAAAAAAAHMXAAAAAAAAdBcAAAAAAAAAAAAAfxYAAAAAAACAFgAAAAAAAAAAAAB1FwAAAAAAAHYXAAAAAAAAAAAAAIAWAAAAAAAAgRYAAAAAAAAAAAAA",
+					"AQAAAAAAAAACAAAAfBYAAAAAAAB8FgAAAAAAAAAAAAAAAPC/bRcAAAAAAABtFwAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "src/main/java/com/spa/userpayments/controllers/MainController.java",
+			"settings":
+			{
+				"buffer_size": 7799,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"paste",
+					null,
+					"AQAAANIPAAAAAAAA1RYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0g8AAAAAAADSDwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAANUWAAAAAAAA1hYAAAAAAAAAAAAA1hYAAAAAAADeFgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1RYAAAAAAADVFgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"paste",
+					null,
+					"AgAAANAQAAAAAAAA3BAAAAAAAAAAAAAA3BAAAAAAAADcEAAAAAAAAAwAAABmZXRjaFByb2ZpbGU",
+					"AQAAAAAAAAABAAAA0BAAAAAAAADcEAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": "payment"
+					},
+					"CQAAAAETAAAAAAAAAhMAAAAAAAAAAAAAAhMAAAAAAAACEwAAAAAAAAUAAABlbWFpbNIWAAAAAAAA0hYAAAAAAAAIAAAAICAgICAgICACEwAAAAAAAAMTAAAAAAAAAAAAAAMTAAAAAAAABBMAAAAAAAAAAAAABBMAAAAAAAAFEwAAAAAAAAAAAAAFEwAAAAAAAAYTAAAAAAAAAAAAAAYTAAAAAAAABxMAAAAAAAAAAAAABxMAAAAAAAAIEwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAARMAAAAAAAAGEwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert_completion",
+					{
+						"completion": "payment_id",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "payment_id"
+					},
+					"AgAAAAETAAAAAAAAARMAAAAAAAAHAAAAcGF5bWVudAETAAAAAAAACxMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACBMAAAAAAAAIEwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"insert",
+					{
+						"characters": "Payment"
+					},
+					"CAAAAJATAAAAAAAAkRMAAAAAAAAAAAAAkRMAAAAAAACREwAAAAAAAAcAAABQcm9maWxlkRMAAAAAAACSEwAAAAAAAAAAAACSEwAAAAAAAJMTAAAAAAAAAAAAAJMTAAAAAAAAlBMAAAAAAAAAAAAAlBMAAAAAAACVEwAAAAAAAAAAAACVEwAAAAAAAJYTAAAAAAAAAAAAAJYTAAAAAAAAlxMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlxMAAAAAAACQEwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"paste",
+					null,
+					"AgAAAGEWAAAAAAAAbRYAAAAAAAAAAAAAbRYAAAAAAABtFgAAAAAAAAwAAABmZXRjaFByb2ZpbGU",
+					"AQAAAAAAAAABAAAAYRYAAAAAAABtFgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					55,
+					1,
+					"insert",
+					{
+						"characters": "Response"
+					},
+					"CQAAAJUPAAAAAAAAlg8AAAAAAAAAAAAAlg8AAAAAAACWDwAAAAAAAAQAAAB2b2lklg8AAAAAAACXDwAAAAAAAAAAAACXDwAAAAAAAJgPAAAAAAAAAAAAAJgPAAAAAAAAmQ8AAAAAAAAAAAAAmQ8AAAAAAACaDwAAAAAAAAAAAACaDwAAAAAAAJsPAAAAAAAAAAAAAJsPAAAAAAAAnA8AAAAAAAAAAAAAnA8AAAAAAACdDwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlQ8AAAAAAACZDwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					58,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAE4XAAAAAAAATxcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAThcAAAAAAABOFwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					59,
+					1,
+					"paste",
+					null,
+					"AQAAAE8XAAAAAAAA3R0AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATxcAAAAAAABPFwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					60,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAN0dAAAAAAAA3h0AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3R0AAAAAAADdHQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					72,
+					1,
+					"paste",
+					null,
+					"BgAAAGAdAAAAAAAAcB0AAAAAAAAAAAAAcB0AAAAAAABwHQAAAAAAABAAAABmZXRjaEFsbFNlcnZpY2VziBoAAAAAAACYGgAAAAAAAAAAAACYGgAAAAAAAJgaAAAAAAAAEAAAAGZldGNoQWxsU2VydmljZXNQGAAAAAAAAGAYAAAAAAAAAAAAAGAYAAAAAAAAYBgAAAAAAAAQAAAAZmV0Y2hBbGxTZXJ2aWNlcw",
+					"AQAAAAAAAAADAAAAUBgAAAAAAABgGAAAAAAAAAAAAAAAAPC/iBoAAAAAAACYGgAAAAAAAAAAAAAAAPC/YB0AAAAAAABwHQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					79,
+					1,
+					"insert",
+					{
+						"characters": "Response"
+					},
+					"CQAAABIXAAAAAAAAExcAAAAAAAAAAAAAExcAAAAAAAATFwAAAAAAAAQAAAB2b2lkExcAAAAAAAAUFwAAAAAAAAAAAAAUFwAAAAAAABUXAAAAAAAAAAAAABUXAAAAAAAAFhcAAAAAAAAAAAAAFhcAAAAAAAAXFwAAAAAAAAAAAAAXFwAAAAAAABgXAAAAAAAAAAAAABgXAAAAAAAAGRcAAAAAAAAAAAAAGRcAAAAAAAAaFwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEhcAAAAAAAAWFwAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "src/main/java/com/spa/userpayments/services/operations/MainServiceImpl.java",
+			"settings":
+			{
+				"buffer_size": 17245,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAFEXAAAAAAAAUhcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAURcAAAAAAABRFwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"paste",
+					null,
+					"AQAAAFIXAAAAAAAA7ikAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUhcAAAAAAABSFwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": "RE"
+					},
+					"AwAAAB0XAAAAAAAAHhcAAAAAAAAAAAAAHhcAAAAAAAAeFwAAAAAAAAQAAAB2b2lkHhcAAAAAAAAfFwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHRcAAAAAAAAhFwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"left_delete",
+					null,
+					"AQAAAB4XAAAAAAAAHhcAAAAAAAABAAAARQ",
+					"AQAAAAAAAAABAAAAHxcAAAAAAAAfFwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": "esponse"
+					},
+					"BwAAAB4XAAAAAAAAHxcAAAAAAAAAAAAAHxcAAAAAAAAgFwAAAAAAAAAAAAAgFwAAAAAAACEXAAAAAAAAAAAAACEXAAAAAAAAIhcAAAAAAAAAAAAAIhcAAAAAAAAjFwAAAAAAAAAAAAAjFwAAAAAAACQXAAAAAAAAAAAAACQXAAAAAAAAJRcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHhcAAAAAAAAeFwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					32,
+					1,
+					"paste",
+					null,
+					"AgAAACMYAAAAAAAALxgAAAAAAAAAAAAALxgAAAAAAAAvGAAAAAAAABUAAABmZXRjaFNlcnZpY2VPcGVyYXRpb24",
+					"AQAAAAAAAAABAAAAIxgAAAAAAAA4GAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					61,
+					1,
+					"insert",
+					{
+						"characters": "Payment"
+					},
+					"IAAAAKMaAAAAAAAApBoAAAAAAAAAAAAApBoAAAAAAACkGgAAAAAAAAcAAABTZXJ2aWNlQxoAAAAAAABEGgAAAAAAAAAAAABEGgAAAAAAAEQaAAAAAAAABwAAAFNlcnZpY2UTGgAAAAAAABQaAAAAAAAAAAAAABQaAAAAAAAAFBoAAAAAAAAHAAAAU2VydmljZeUZAAAAAAAA5hkAAAAAAAAAAAAA5hkAAAAAAADmGQAAAAAAAAcAAABTZXJ2aWNlkhoAAAAAAACTGgAAAAAAAAAAAAA4GgAAAAAAADkaAAAAAAAAAAAAAA4aAAAAAAAADxoAAAAAAAAAAAAA5hkAAAAAAADnGQAAAAAAAAAAAACWGgAAAAAAAJcaAAAAAAAAAAAAADsaAAAAAAAAPBoAAAAAAAAAAAAAEBoAAAAAAAARGgAAAAAAAAAAAADnGQAAAAAAAOgZAAAAAAAAAAAAAJoaAAAAAAAAmxoAAAAAAAAAAAAAPhoAAAAAAAA/GgAAAAAAAAAAAAASGgAAAAAAABMaAAAAAAAAAAAAAOgZAAAAAAAA6RkAAAAAAAAAAAAAnhoAAAAAAACfGgAAAAAAAAAAAABBGgAAAAAAAEIaAAAAAAAAAAAAABQaAAAAAAAAFRoAAAAAAAAAAAAA6RkAAAAAAADqGQAAAAAAAAAAAACiGgAAAAAAAKMaAAAAAAAAAAAAAEQaAAAAAAAARRoAAAAAAAAAAAAAFhoAAAAAAAAXGgAAAAAAAAAAAADqGQAAAAAAAOsZAAAAAAAAAAAAAKYaAAAAAAAApxoAAAAAAAAAAAAARxoAAAAAAABIGgAAAAAAAAAAAAAYGgAAAAAAABkaAAAAAAAAAAAAAOsZAAAAAAAA7BkAAAAAAAAAAAAA",
+					"AQAAAAAAAAAEAAAA5RkAAAAAAADsGQAAAAAAAAAAAAAAAPC/ExoAAAAAAAAaGgAAAAAAAAAAAAAAAPC/QxoAAAAAAABKGgAAAAAAAAAAAAAAAPC/oxoAAAAAAACqGgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					90,
+					1,
+					"insert",
+					{
+						"characters": "Payment"
+					},
+					"IAAAAC8cAAAAAAAAMBwAAAAAAAAAAAAAMBwAAAAAAAAwHAAAAAAAAAcAAABTZXJ2aWNlmRsAAAAAAACaGwAAAAAAAAAAAACaGwAAAAAAAJobAAAAAAAABwAAAFNlcnZpY2VmGwAAAAAAAGcbAAAAAAAAAAAAAGcbAAAAAAAAZxsAAAAAAAAHAAAAU2VydmljZTobAAAAAAAAOxsAAAAAAAAAAAAAOxsAAAAAAAA7GwAAAAAAAAcAAABTZXJ2aWNlHhwAAAAAAAAfHAAAAAAAAAAAAACOGwAAAAAAAI8bAAAAAAAAAAAAAGEbAAAAAAAAYhsAAAAAAAAAAAAAOxsAAAAAAAA8GwAAAAAAAAAAAAAiHAAAAAAAACMcAAAAAAAAAAAAAJEbAAAAAAAAkhsAAAAAAAAAAAAAYxsAAAAAAABkGwAAAAAAAAAAAAA8GwAAAAAAAD0bAAAAAAAAAAAAACYcAAAAAAAAJxwAAAAAAAAAAAAAlBsAAAAAAACVGwAAAAAAAAAAAABlGwAAAAAAAGYbAAAAAAAAAAAAAD0bAAAAAAAAPhsAAAAAAAAAAAAAKhwAAAAAAAArHAAAAAAAAAAAAACXGwAAAAAAAJgbAAAAAAAAAAAAAGcbAAAAAAAAaBsAAAAAAAAAAAAAPhsAAAAAAAA/GwAAAAAAAAAAAAAuHAAAAAAAAC8cAAAAAAAAAAAAAJobAAAAAAAAmxsAAAAAAAAAAAAAaRsAAAAAAABqGwAAAAAAAAAAAAA/GwAAAAAAAEAbAAAAAAAAAAAAADIcAAAAAAAAMxwAAAAAAAAAAAAAnRsAAAAAAACeGwAAAAAAAAAAAABrGwAAAAAAAGwbAAAAAAAAAAAAAEAbAAAAAAAAQRsAAAAAAAAAAAAA",
+					"AQAAAAAAAAAEAAAAQRsAAAAAAAA6GwAAAAAAAAAAAAAAAPC/bRsAAAAAAABmGwAAAAAAAAAAAAAAAPC/oBsAAAAAAACZGwAAAAAAAAAAAAAAAPC/NhwAAAAAAAAvHAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					104,
+					1,
+					"insert",
+					{
+						"characters": "Payments"
+					},
+					"CQAAAAYcAAAAAAAABxwAAAAAAAAAAAAABxwAAAAAAAAHHAAAAAAAAAgAAABTZXJ2aWNlcwccAAAAAAAACBwAAAAAAAAAAAAACBwAAAAAAAAJHAAAAAAAAAAAAAAJHAAAAAAAAAocAAAAAAAAAAAAAAocAAAAAAAACxwAAAAAAAAAAAAACxwAAAAAAAAMHAAAAAAAAAAAAAAMHAAAAAAAAA0cAAAAAAAAAAAAAA0cAAAAAAAADhwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABhwAAAAAAAAOHAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					109,
+					1,
+					"insert",
+					{
+						"characters": "Payments"
+					},
+					"CQAAAF8cAAAAAAAAYBwAAAAAAAAAAAAAYBwAAAAAAABgHAAAAAAAAAgAAABTZXJ2aWNlc2AcAAAAAAAAYRwAAAAAAAAAAAAAYRwAAAAAAABiHAAAAAAAAAAAAABiHAAAAAAAAGMcAAAAAAAAAAAAAGMcAAAAAAAAZBwAAAAAAAAAAAAAZBwAAAAAAABlHAAAAAAAAAAAAABlHAAAAAAAAGYcAAAAAAAAAAAAAGYcAAAAAAAAZxwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXxwAAAAAAABnHAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					111,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"BAAAAF8cAAAAAAAAYBwAAAAAAAAAAAAAYBwAAAAAAAB0HAAAAAAAAAAAAABgHAAAAAAAAGAcAAAAAAAAFAAAACAgICAgICAgICAgICAgICAgICAgYBwAAAAAAAB4HAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXxwAAAAAAABfHAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					114,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAIkcAAAAAAAAihwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiRwAAAAAAACJHAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					115,
+					1,
+					"paste",
+					null,
+					"AQAAAIocAAAAAAAAfyAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAihwAAAAAAACKHAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					116,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAH8gAAAAAAAAgCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfyAAAAAAAAB/IAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					121,
+					1,
+					"insert",
+					{
+						"characters": "pay"
+					},
+					"BAAAAFAhAAAAAAAAUSEAAAAAAAAAAAAAUSEAAAAAAABRIQAAAAAAAAoAAABzZXJ2aWNlX2lkUSEAAAAAAABSIQAAAAAAAAAAAABSIQAAAAAAAFMhAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUCEAAAAAAABaIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					124,
+					1,
+					"insert_completion",
+					{
+						"completion": "payments_id",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "payments_id"
+					},
+					"AgAAAFAhAAAAAAAAUCEAAAAAAAADAAAAcGF5UCEAAAAAAABbIQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUyEAAAAAAABTIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					129,
+					1,
+					"insert",
+					{
+						"characters": "service"
+					},
+					"CAAAADciAAAAAAAAOCIAAAAAAAAAAAAAOCIAAAAAAAA4IgAAAAAAAAQAAABuYW1lOCIAAAAAAAA5IgAAAAAAAAAAAAA5IgAAAAAAADoiAAAAAAAAAAAAADoiAAAAAAAAOyIAAAAAAAAAAAAAOyIAAAAAAAA8IgAAAAAAAAAAAAA8IgAAAAAAAD0iAAAAAAAAAAAAAD0iAAAAAAAAPiIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANyIAAAAAAAA7IgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					133,
+					1,
+					"insert_completion",
+					{
+						"completion": "service_id",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "service_id"
+					},
+					"AgAAADciAAAAAAAANyIAAAAAAAAHAAAAc2VydmljZTciAAAAAAAAQSIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPiIAAAAAAAA+IgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					138,
+					1,
+					"insert",
+					{
+						"characters": "contact_no"
+					},
+					"CwAAACIjAAAAAAAAIyMAAAAAAAAAAAAAIyMAAAAAAAAjIwAAAAAAAAsAAABkZXNjcmlwdGlvbiMjAAAAAAAAJCMAAAAAAAAAAAAAJCMAAAAAAAAlIwAAAAAAAAAAAAAlIwAAAAAAACYjAAAAAAAAAAAAACYjAAAAAAAAJyMAAAAAAAAAAAAAJyMAAAAAAAAoIwAAAAAAAAAAAAAoIwAAAAAAACkjAAAAAAAAAAAAACkjAAAAAAAAKiMAAAAAAAAAAAAAKiMAAAAAAAArIwAAAAAAAAAAAAArIwAAAAAAACwjAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIiMAAAAAAAAtIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					143,
+					1,
+					"insert",
+					{
+						"characters": "price"
+					},
+					"BgAAABEkAAAAAAAAEiQAAAAAAAAAAAAAEiQAAAAAAAASJAAAAAAAAAYAAABzdGF0dXMSJAAAAAAAABMkAAAAAAAAAAAAABMkAAAAAAAAFCQAAAAAAAAAAAAAFCQAAAAAAAAVJAAAAAAAAAAAAAAVJAAAAAAAABYkAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAESQAAAAAAAAXJAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					148,
+					1,
+					"insert",
+					{
+						"characters": "start"
+					},
+					"BgAAAO8kAAAAAAAA8CQAAAAAAAAAAAAA8CQAAAAAAADwJAAAAAAAAAUAAABwcmljZfAkAAAAAAAA8SQAAAAAAAAAAAAA8SQAAAAAAADyJAAAAAAAAAAAAADyJAAAAAAAAPMkAAAAAAAAAAAAAPMkAAAAAAAA9CQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7yQAAAAAAAD0JAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					149,
+					1,
+					"insert_completion",
+					{
+						"completion": "starting_time",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "starting_time"
+					},
+					"AgAAAO8kAAAAAAAA7yQAAAAAAAAFAAAAc3RhcnTvJAAAAAAAAPwkAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9CQAAAAAAAD0JAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					156,
+					2,
+					"paste",
+					null,
+					"AgAAAGIlAAAAAAAAVSYAAAAAAAAAAAAAVSYAAAAAAABIJwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYiUAAAAAAABiJQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					158,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAMMmAAAAAAAAxCYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAwyYAAAAAAADDJgAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					163,
+					1,
+					"insert",
+					{
+						"characters": "ending"
+					},
+					"BwAAAPclAAAAAAAA+CUAAAAAAAAAAAAA+CUAAAAAAAD4JQAAAAAAAA0AAABzdGFydGluZ190aW1l+CUAAAAAAAD5JQAAAAAAAAAAAAD5JQAAAAAAAPolAAAAAAAAAAAAAPolAAAAAAAA+yUAAAAAAAAAAAAA+yUAAAAAAAD8JQAAAAAAAAAAAAD8JQAAAAAAAP0lAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9yUAAAAAAAAEJgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					164,
+					1,
+					"insert_completion",
+					{
+						"completion": "ending_time",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "ending_time"
+					},
+					"AgAAAPclAAAAAAAA9yUAAAAAAAAGAAAAZW5kaW5n9yUAAAAAAAACJgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/SUAAAAAAAD9JQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					169,
+					1,
+					"insert",
+					{
+						"characters": "status"
+					},
+					"BwAAAOkmAAAAAAAA6iYAAAAAAAAAAAAA6iYAAAAAAADqJgAAAAAAAA0AAABzdGFydGluZ190aW1l6iYAAAAAAADrJgAAAAAAAAAAAADrJgAAAAAAAOwmAAAAAAAAAAAAAOwmAAAAAAAA7SYAAAAAAAAAAAAA7SYAAAAAAADuJgAAAAAAAAAAAADuJgAAAAAAAO8mAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6SYAAAAAAAD2JgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					175,
+					1,
+					"left_delete",
+					null,
+					"AQAAAMAmAAAAAAAAwCYAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAwSYAAAAAAADBJgAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					178,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAFMmAAAAAAAAVCYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUyYAAAAAAABTJgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					182,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAEAnAAAAAAAAQScAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQCcAAAAAAABAJwAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					183,
+					1,
+					"paste",
+					null,
+					"AQAAAEEnAAAAAAAANCgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQScAAAAAAABBJwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					188,
+					1,
+					"insert",
+					{
+						"characters": "desc"
+					},
+					"BQAAANYnAAAAAAAA1ycAAAAAAAAAAAAA1ycAAAAAAADXJwAAAAAAAA0AAABzdGFydGluZ190aW1l1ycAAAAAAADYJwAAAAAAAAAAAADYJwAAAAAAANknAAAAAAAAAAAAANknAAAAAAAA2icAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1icAAAAAAADjJwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					189,
+					1,
+					"insert_completion",
+					{
+						"completion": "description",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "description"
+					},
+					"AgAAANYnAAAAAAAA1icAAAAAAAAEAAAAZGVzY9YnAAAAAAAA4ScAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2icAAAAAAADaJwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					194,
+					1,
+					"left_delete",
+					null,
+					"AQAAAIocAAAAAAAAihwAAAAAAAD1AwAAIHBheW1lbnRzX2lkICAgfCB2YXJjaGFyKDUwKSAgfCBZRVMgIHwgICAgIHwgTlVMTCAgICAgICAgICAgICAgICB8ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwKfCB1c2VyX2lkICAgICAgIHwgdmFyY2hhcig1MCkgIHwgWUVTICB8ICAgICB8IE5VTEwgICAgICAgICAgICAgICAgfCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8Cnwgc2VydmljZV9pZCAgICB8IHZhcmNoYXIoNTApICB8IFlFUyAgfCAgICAgfCBOVUxMICAgICAgICAgICAgICAgIHwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfAp8IGNvbnRhY3Rfbm8gICAgfCB2YXJjaGFyKDIwKSAgfCBZRVMgIHwgICAgIHwgTlVMTCAgICAgICAgICAgICAgICB8ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwKfCBwcmljZSAgICAgICAgIHwgdmFyY2hhcig1MCkgIHwgWUVTICB8ICAgICB8IE5VTEwgICAgICAgICAgICAgICAgfCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8Cnwgc3RhcnRpbmdfdGltZSB8IHZhcmNoYXIoNTApICB8IFlFUyAgfCAgICAgfCBOVUxMICAgICAgICAgICAgICAgIHwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfAp8IGVuZGluZ190aW1lICAgfCB2YXJjaGFyKDUwKSAgfCBZRVMgIHwgICAgIHwgTlVMTCAgICAgICAgICAgICAgICB8ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwKfCBzdGF0dXMgICAgICAgIHwgdmFyY2hhcig1MCkgIHwgWUVTICB8ICAgICB8IE5VTEwgICAgICAgICAgICAgICAgfCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8CnwgZGVzY3JpcHRpb24gICB8IHZhcmNoYXIoMTAwKSB8IFlFUyAgfCAgICAgfCBOVUxMICAgICAgICAgICAgICAgIHwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfAp8IGNyZWF0ZWRfb24gICAgfCB0aW1lc3RhbXAgICAgfCBOTyAgIHwgICAgIHwgY3VycmVudF90aW1lc3RhbXAoKSB8IG9uIHVwZGF0ZSBjdXJyZW50X3RpbWVzdGFtcCgpIHwKfCB1cGRhdGVkX29uICA",
+					"AQAAAAAAAAABAAAAfyAAAAAAAACKHAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					197,
+					2,
+					"left_delete",
+					null,
+					"AgAAAIscAAAAAAAAixwAAAAAAAABAAAACoocAAAAAAAAihwAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAjBwAAAAAAACMHAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					198,
+					1,
+					"left_delete",
+					null,
+					"AQAAAIkcAAAAAAAAiRwAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAihwAAAAAAACKHAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					199,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAIkcAAAAAAAAihwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiRwAAAAAAACJHAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					206,
+					1,
+					"insert",
+					{
+						"characters": "payment"
+					},
+					"GAAAAK4cAAAAAAAArxwAAAAAAAAAAAAArxwAAAAAAACvHAAAAAAAAAcAAABzZXJ2aWNlTBwAAAAAAABNHAAAAAAAAAAAAABNHAAAAAAAAE0cAAAAAAAABwAAAHNlcnZpY2UPHAAAAAAAABAcAAAAAAAAAAAAABAcAAAAAAAAEBwAAAAAAAAHAAAAc2VydmljZaMcAAAAAAAApBwAAAAAAAAAAAAARxwAAAAAAABIHAAAAAAAAAAAAAAQHAAAAAAAABEcAAAAAAAAAAAAAKYcAAAAAAAApxwAAAAAAAAAAAAASRwAAAAAAABKHAAAAAAAAAAAAAARHAAAAAAAABIcAAAAAAAAAAAAAKkcAAAAAAAAqhwAAAAAAAAAAAAASxwAAAAAAABMHAAAAAAAAAAAAAASHAAAAAAAABMcAAAAAAAAAAAAAKwcAAAAAAAArRwAAAAAAAAAAAAATRwAAAAAAABOHAAAAAAAAAAAAAATHAAAAAAAABQcAAAAAAAAAAAAAK8cAAAAAAAAsBwAAAAAAAAAAAAATxwAAAAAAABQHAAAAAAAAAAAAAAUHAAAAAAAABUcAAAAAAAAAAAAALIcAAAAAAAAsxwAAAAAAAAAAAAAURwAAAAAAABSHAAAAAAAAAAAAAAVHAAAAAAAABYcAAAAAAAAAAAAAA",
+					"AQAAAAAAAAADAAAADxwAAAAAAAAWHAAAAAAAAAAAAAAAAPC/TBwAAAAAAABTHAAAAAAAAAAAAAAAAPC/rhwAAAAAAAC1HAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					220,
+					1,
+					"insert",
+					{
+						"characters": "payment"
+					},
+					"IAAAANskAAAAAAAA3CQAAAAAAAAAAAAA3CQAAAAAAADcJAAAAAAAAAcAAABzZXJ2aWNlfB0AAAAAAAB9HQAAAAAAAAAAAAB9HQAAAAAAAH0dAAAAAAAABwAAAHNlcnZpY2VEHQAAAAAAAEUdAAAAAAAAAAAAAEUdAAAAAAAARR0AAAAAAAAHAAAAc2VydmljZfccAAAAAAAA+BwAAAAAAAAAAAAA+BwAAAAAAAD4HAAAAAAAAAcAAABzZXJ2aWNlyiQAAAAAAADLJAAAAAAAAAAAAABxHQAAAAAAAHIdAAAAAAAAAAAAAD8dAAAAAAAAQB0AAAAAAAAAAAAA+BwAAAAAAAD5HAAAAAAAAAAAAADOJAAAAAAAAM8kAAAAAAAAAAAAAHQdAAAAAAAAdR0AAAAAAAAAAAAAQR0AAAAAAABCHQAAAAAAAAAAAAD5HAAAAAAAAPocAAAAAAAAAAAAANIkAAAAAAAA0yQAAAAAAAAAAAAAdx0AAAAAAAB4HQAAAAAAAAAAAABDHQAAAAAAAEQdAAAAAAAAAAAAAPocAAAAAAAA+xwAAAAAAAAAAAAA1iQAAAAAAADXJAAAAAAAAAAAAAB6HQAAAAAAAHsdAAAAAAAAAAAAAEUdAAAAAAAARh0AAAAAAAAAAAAA+xwAAAAAAAD8HAAAAAAAAAAAAADaJAAAAAAAANskAAAAAAAAAAAAAH0dAAAAAAAAfh0AAAAAAAAAAAAARx0AAAAAAABIHQAAAAAAAAAAAAD8HAAAAAAAAP0cAAAAAAAAAAAAAN4kAAAAAAAA3yQAAAAAAAAAAAAAgB0AAAAAAACBHQAAAAAAAAAAAABJHQAAAAAAAEodAAAAAAAAAAAAAP0cAAAAAAAA/hwAAAAAAAAAAAAA",
+					"AQAAAAAAAAAEAAAA9xwAAAAAAAD+HAAAAAAAAAAAAAAAAPC/RB0AAAAAAABLHQAAAAAAAAAAAAAAAPC/fB0AAAAAAACDHQAAAAAAAAAAAAAAAPC/2yQAAAAAAADiJAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					232,
+					1,
+					"insert",
+					{
+						"characters": "service_id"
+					},
+					"LAAAAAclAAAAAAAACCUAAAAAAAAAAAAACCUAAAAAAAAIJQAAAAAAAAQAAABuYW1lYh4AAAAAAABjHgAAAAAAAAAAAABjHgAAAAAAAGMeAAAAAAAABAAAAG5hbWUuHgAAAAAAAC8eAAAAAAAAAAAAAC8eAAAAAAAALx4AAAAAAAAEAAAAbmFtZeQdAAAAAAAA5R0AAAAAAAAAAAAA5R0AAAAAAADlHQAAAAAAAAQAAABuYW1l/yQAAAAAAAAAJQAAAAAAAAAAAABdHgAAAAAAAF4eAAAAAAAAAAAAACweAAAAAAAALR4AAAAAAAAAAAAA5R0AAAAAAADmHQAAAAAAAAAAAAADJQAAAAAAAAQlAAAAAAAAAAAAAGAeAAAAAAAAYR4AAAAAAAAAAAAALh4AAAAAAAAvHgAAAAAAAAAAAADmHQAAAAAAAOcdAAAAAAAAAAAAAAclAAAAAAAACCUAAAAAAAAAAAAAYx4AAAAAAABkHgAAAAAAAAAAAAAwHgAAAAAAADEeAAAAAAAAAAAAAOcdAAAAAAAA6B0AAAAAAAAAAAAACyUAAAAAAAAMJQAAAAAAAAAAAABmHgAAAAAAAGceAAAAAAAAAAAAADIeAAAAAAAAMx4AAAAAAAAAAAAA6B0AAAAAAADpHQAAAAAAAAAAAAAPJQAAAAAAABAlAAAAAAAAAAAAAGkeAAAAAAAAah4AAAAAAAAAAAAANB4AAAAAAAA1HgAAAAAAAAAAAADpHQAAAAAAAOodAAAAAAAAAAAAABMlAAAAAAAAFCUAAAAAAAAAAAAAbB4AAAAAAABtHgAAAAAAAAAAAAA2HgAAAAAAADceAAAAAAAAAAAAAOodAAAAAAAA6x0AAAAAAAAAAAAAFyUAAAAAAAAYJQAAAAAAAAAAAABvHgAAAAAAAHAeAAAAAAAAAAAAADgeAAAAAAAAOR4AAAAAAAAAAAAA6x0AAAAAAADsHQAAAAAAAAAAAAAbJQAAAAAAABwlAAAAAAAAAAAAAHIeAAAAAAAAcx4AAAAAAAAAAAAAOh4AAAAAAAA7HgAAAAAAAAAAAADsHQAAAAAAAO0dAAAAAAAAAAAAAB8lAAAAAAAAICUAAAAAAAAAAAAAdR4AAAAAAAB2HgAAAAAAAAAAAAA8HgAAAAAAAD0eAAAAAAAAAAAAAO0dAAAAAAAA7h0AAAAAAAAAAAAA",
+					"AQAAAAAAAAAEAAAA5B0AAAAAAADoHQAAAAAAAAAAAAAAAPC/Lh4AAAAAAAAyHgAAAAAAAAAAAAAAAPC/Yh4AAAAAAABmHgAAAAAAAAAAAAAAAPC/ByUAAAAAAAALJQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					244,
+					1,
+					"insert",
+					{
+						"characters": "_id"
+					},
+					"DAAAAPQkAAAAAAAA9SQAAAAAAAAAAAAAgx0AAAAAAACEHQAAAAAAAAAAAABLHQAAAAAAAEwdAAAAAAAAAAAAAP4cAAAAAAAA/xwAAAAAAAAAAAAA+CQAAAAAAAD5JAAAAAAAAAAAAACGHQAAAAAAAIcdAAAAAAAAAAAAAE0dAAAAAAAATh0AAAAAAAAAAAAA/xwAAAAAAAAAHQAAAAAAAAAAAAD8JAAAAAAAAP0kAAAAAAAAAAAAAIkdAAAAAAAAih0AAAAAAAAAAAAATx0AAAAAAABQHQAAAAAAAAAAAAAAHQAAAAAAAAEdAAAAAAAAAAAAAA",
+					"AQAAAAAAAAAEAAAA/hwAAAAAAAD+HAAAAAAAAAAAAAAAAPC/Sx0AAAAAAABLHQAAAAAAAAAAAAAAAPC/gx0AAAAAAACDHQAAAAAAAAAAAAAAAPC/9CQAAAAAAAD0JAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					256,
+					1,
+					"insert",
+					{
+						"characters": "contact_no"
+					},
+					"LAAAAFQlAAAAAAAAVSUAAAAAAAAAAAAAVSUAAAAAAABVJQAAAAAAAAsAAABkZXNjcmlwdGlvbmgfAAAAAAAAaR8AAAAAAAAAAAAAaR8AAAAAAABpHwAAAAAAAAsAAABkZXNjcmlwdGlvbi0fAAAAAAAALh8AAAAAAAAAAAAALh8AAAAAAAAuHwAAAAAAAAsAAABkZXNjcmlwdGlvbtweAAAAAAAA3R4AAAAAAAAAAAAA3R4AAAAAAADdHgAAAAAAAAsAAABkZXNjcmlwdGlvbjclAAAAAAAAOCUAAAAAAAAAAAAAVR8AAAAAAABWHwAAAAAAAAAAAAAkHwAAAAAAACUfAAAAAAAAAAAAAN0eAAAAAAAA3h4AAAAAAAAAAAAAOyUAAAAAAAA8JQAAAAAAAAAAAABYHwAAAAAAAFkfAAAAAAAAAAAAACYfAAAAAAAAJx8AAAAAAAAAAAAA3h4AAAAAAADfHgAAAAAAAAAAAAA/JQAAAAAAAEAlAAAAAAAAAAAAAFsfAAAAAAAAXB8AAAAAAAAAAAAAKB8AAAAAAAApHwAAAAAAAAAAAADfHgAAAAAAAOAeAAAAAAAAAAAAAEMlAAAAAAAARCUAAAAAAAAAAAAAXh8AAAAAAABfHwAAAAAAAAAAAAAqHwAAAAAAACsfAAAAAAAAAAAAAOAeAAAAAAAA4R4AAAAAAAAAAAAARyUAAAAAAABIJQAAAAAAAAAAAABhHwAAAAAAAGIfAAAAAAAAAAAAACwfAAAAAAAALR8AAAAAAAAAAAAA4R4AAAAAAADiHgAAAAAAAAAAAABLJQAAAAAAAEwlAAAAAAAAAAAAAGQfAAAAAAAAZR8AAAAAAAAAAAAALh8AAAAAAAAvHwAAAAAAAAAAAADiHgAAAAAAAOMeAAAAAAAAAAAAAE8lAAAAAAAAUCUAAAAAAAAAAAAAZx8AAAAAAABoHwAAAAAAAAAAAAAwHwAAAAAAADEfAAAAAAAAAAAAAOMeAAAAAAAA5B4AAAAAAAAAAAAAUyUAAAAAAABUJQAAAAAAAAAAAABqHwAAAAAAAGsfAAAAAAAAAAAAADIfAAAAAAAAMx8AAAAAAAAAAAAA5B4AAAAAAADlHgAAAAAAAAAAAABXJQAAAAAAAFglAAAAAAAAAAAAAG0fAAAAAAAAbh8AAAAAAAAAAAAANB8AAAAAAAA1HwAAAAAAAAAAAADlHgAAAAAAAOYeAAAAAAAAAAAAAA",
+					"AQAAAAAAAAAEAAAA3B4AAAAAAADnHgAAAAAAAAAAAAAAAPC/LR8AAAAAAAA4HwAAAAAAAAAAAAAAAPC/aB8AAAAAAABzHwAAAAAAAAAAAAAAAPC/VCUAAAAAAABfJQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					268,
+					1,
+					"insert",
+					{
+						"characters": "price"
+					},
+					"GAAAAIAlAAAAAAAAgSUAAAAAAAAAAAAAgSUAAAAAAACBJQAAAAAAAAYAAABzdGF0dXNPIAAAAAAAAFAgAAAAAAAAAAAAAFAgAAAAAAAAUCAAAAAAAAAGAAAAc3RhdHVzHiAAAAAAAAAfIAAAAAAAAAAAAAAfIAAAAAAAAB8gAAAAAAAABgAAAHN0YXR1c9IfAAAAAAAA0x8AAAAAAAAAAAAA0x8AAAAAAADTHwAAAAAAAAYAAABzdGF0dXNyJQAAAAAAAHMlAAAAAAAAAAAAAEYgAAAAAAAARyAAAAAAAAAAAAAAGiAAAAAAAAAbIAAAAAAAAAAAAADTHwAAAAAAANQfAAAAAAAAAAAAAHYlAAAAAAAAdyUAAAAAAAAAAAAASSAAAAAAAABKIAAAAAAAAAAAAAAcIAAAAAAAAB0gAAAAAAAAAAAAANQfAAAAAAAA1R8AAAAAAAAAAAAAeiUAAAAAAAB7JQAAAAAAAAAAAABMIAAAAAAAAE0gAAAAAAAAAAAAAB4gAAAAAAAAHyAAAAAAAAAAAAAA1R8AAAAAAADWHwAAAAAAAAAAAAB+JQAAAAAAAH8lAAAAAAAAAAAAAE8gAAAAAAAAUCAAAAAAAAAAAAAAICAAAAAAAAAhIAAAAAAAAAAAAADWHwAAAAAAANcfAAAAAAAAAAAAAA",
+					"AQAAAAAAAAAEAAAA0h8AAAAAAADYHwAAAAAAAAAAAAAAAPC/HiAAAAAAAAAkIAAAAAAAAAAAAAAAAPC/TyAAAAAAAABVIAAAAAAAAAAAAAAAAPC/gCUAAAAAAACGJQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					285,
+					1,
+					"insert",
+					{
+						"characters": "starting"
+					},
+					"GwAAADIhAAAAAAAAMyEAAAAAAAAAAAAAMyEAAAAAAAAzIQAAAAAAAAUAAABwcmljZfogAAAAAAAA+yAAAAAAAAAAAAAA+yAAAAAAAAD7IAAAAAAAAAUAAABwcmljZa8gAAAAAAAAsCAAAAAAAAAAAAAAsCAAAAAAAACwIAAAAAAAAAUAAABwcmljZSshAAAAAAAALCEAAAAAAAAAAAAA9yAAAAAAAAD4IAAAAAAAAAAAAACwIAAAAAAAALEgAAAAAAAAAAAAAC4hAAAAAAAALyEAAAAAAAAAAAAA+SAAAAAAAAD6IAAAAAAAAAAAAACxIAAAAAAAALIgAAAAAAAAAAAAADEhAAAAAAAAMiEAAAAAAAAAAAAA+yAAAAAAAAD8IAAAAAAAAAAAAACyIAAAAAAAALMgAAAAAAAAAAAAADQhAAAAAAAANSEAAAAAAAAAAAAA/SAAAAAAAAD+IAAAAAAAAAAAAACzIAAAAAAAALQgAAAAAAAAAAAAADchAAAAAAAAOCEAAAAAAAAAAAAA/yAAAAAAAAAAIQAAAAAAAAAAAAC0IAAAAAAAALUgAAAAAAAAAAAAADohAAAAAAAAOyEAAAAAAAAAAAAAASEAAAAAAAACIQAAAAAAAAAAAAC1IAAAAAAAALYgAAAAAAAAAAAAAD0hAAAAAAAAPiEAAAAAAAAAAAAAAyEAAAAAAAAEIQAAAAAAAAAAAAC2IAAAAAAAALcgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAADAAAAryAAAAAAAAC0IAAAAAAAAAAAAAAAAPC/+iAAAAAAAAD/IAAAAAAAAAAAAAAAAPC/MiEAAAAAAAA3IQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					286,
+					1,
+					"insert",
+					{
+						"characters": "_time"
+					},
+					"DwAAAEAhAAAAAAAAQSEAAAAAAAAAAAAABSEAAAAAAAAGIQAAAAAAAAAAAAC3IAAAAAAAALggAAAAAAAAAAAAAEMhAAAAAAAARCEAAAAAAAAAAAAAByEAAAAAAAAIIQAAAAAAAAAAAAC4IAAAAAAAALkgAAAAAAAAAAAAAEYhAAAAAAAARyEAAAAAAAAAAAAACSEAAAAAAAAKIQAAAAAAAAAAAAC5IAAAAAAAALogAAAAAAAAAAAAAEkhAAAAAAAASiEAAAAAAAAAAAAACyEAAAAAAAAMIQAAAAAAAAAAAAC6IAAAAAAAALsgAAAAAAAAAAAAAEwhAAAAAAAATSEAAAAAAAAAAAAADSEAAAAAAAAOIQAAAAAAAAAAAAC7IAAAAAAAALwgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAADAAAAtyAAAAAAAAC3IAAAAAAAAAAAAAAAAPC/BSEAAAAAAAAFIQAAAAAAAAAAAAAAAPC/QCEAAAAAAABAIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					296,
+					1,
+					"paste",
+					null,
+					"AgAAAJUlAAAAAAAApyUAAAAAAAAAAAAApyUAAAAAAACnJQAAAAAAAAoAAABwcmljZV9pdGVt",
+					"AQAAAAAAAAABAAAAlSUAAAAAAACfJQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					301,
+					3,
+					"paste",
+					null,
+					"AwAAANQlAAAAAAAA/iUAAAAAAAAAAAAA/iUAAAAAAAAoJgAAAAAAAAAAAAAoJgAAAAAAAFImAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1CUAAAAAAADUJQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					316,
+					1,
+					"paste",
+					null,
+					"BgAAAFAiAAAAAAAAWyIAAAAAAAAAAAAAWyIAAAAAAABbIgAAAAAAAAUAAABwcmljZRoiAAAAAAAAJSIAAAAAAAAAAAAAJSIAAAAAAAAlIgAAAAAAAAUAAABwcmljZc8hAAAAAAAA2iEAAAAAAAAAAAAA2iEAAAAAAADaIQAAAAAAAAUAAABwcmljZQ",
+					"AQAAAAAAAAADAAAAzyEAAAAAAADUIQAAAAAAAAAAAAAAAPC/GiIAAAAAAAAfIgAAAAAAAAAAAAAAAPC/UCIAAAAAAABVIgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					321,
+					1,
+					"paste",
+					null,
+					"AgAAANklAAAAAAAA5CUAAAAAAAAAAAAA5CUAAAAAAADkJQAAAAAAAAoAAABwcmljZV9pdGVt",
+					"AQAAAAAAAAABAAAA2SUAAAAAAADjJQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					338,
+					1,
+					"paste",
+					null,
+					"BgAAAE8jAAAAAAAAVSMAAAAAAAAAAAAAVSMAAAAAAABVIwAAAAAAAAUAAABwcmljZR4jAAAAAAAAJCMAAAAAAAAAAAAAJCMAAAAAAAAkIwAAAAAAAAUAAABwcmljZdMiAAAAAAAA2SIAAAAAAAAAAAAA2SIAAAAAAADZIgAAAAAAAAUAAABwcmljZQ",
+					"AQAAAAAAAAADAAAA0yIAAAAAAADYIgAAAAAAAAAAAAAAAPC/HiMAAAAAAAAjIwAAAAAAAAAAAAAAAPC/TyMAAAAAAABUIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					345,
+					1,
+					"paste",
+					null,
+					"AgAAAAcmAAAAAAAADSYAAAAAAAAAAAAADSYAAAAAAAANJgAAAAAAAAUAAABwcmljZQ",
+					"AQAAAAAAAAABAAAAByYAAAAAAAAMJgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					358,
+					1,
+					"paste",
+					null,
+					"BgAAAEQkAAAAAAAATyQAAAAAAAAAAAAATyQAAAAAAABPJAAAAAAAAAUAAABwcmljZQ4kAAAAAAAAGSQAAAAAAAAAAAAAGSQAAAAAAAAZJAAAAAAAAAUAAABwcmljZcMjAAAAAAAAziMAAAAAAAAAAAAAziMAAAAAAADOIwAAAAAAAAUAAABwcmljZQ",
+					"AQAAAAAAAAADAAAAwyMAAAAAAADIIwAAAAAAAAAAAAAAAPC/DiQAAAAAAAATJAAAAAAAAAAAAAAAAPC/RCQAAAAAAABJJAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					365,
+					1,
+					"paste",
+					null,
+					"AgAAAEQmAAAAAAAATyYAAAAAAAAAAAAATyYAAAAAAABPJgAAAAAAAAUAAABwcmljZQ",
+					"AQAAAAAAAAABAAAARCYAAAAAAABJJgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					368,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFcmAAAAAAAAVyYAAAAAAAAqAAAAICAgICAgICAgICAgICAgICAgICBkYXRhLmFkZChwcmljZV9pdGVtKTsK",
+					"AQAAAAAAAAABAAAAVyYAAAAAAACBJgAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					370,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFcmAAAAAAAAVyYAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAWCYAAAAAAABYJgAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					371,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAFcmAAAAAAAAWCYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVyYAAAAAAABXJgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					392,
+					1,
+					"insert",
+					{
+						"characters": "paymnt"
+					},
+					"OAAAAHkkAAAAAAAAeiQAAAAAAAAAAAAAeiQAAAAAAAB6JAAAAAAAAAcAAABzZXJ2aWNldSMAAAAAAAB2IwAAAAAAAAAAAAB2IwAAAAAAAHYjAAAAAAAABwAAAHNlcnZpY2WFIgAAAAAAAIYiAAAAAAAAAAAAAIYiAAAAAAAAhiIAAAAAAAAHAAAAc2VydmljZW0hAAAAAAAAbiEAAAAAAAAAAAAAbiEAAAAAAABuIQAAAAAAAAcAAABzZXJ2aWNlYSAAAAAAAABiIAAAAAAAAAAAAABiIAAAAAAAAGIgAAAAAAAABwAAAHNlcnZpY2V/HwAAAAAAAIAfAAAAAAAAAAAAAIAfAAAAAAAAgB8AAAAAAAAHAAAAc2VydmljZZAeAAAAAAAAkR4AAAAAAAAAAAAAkR4AAAAAAACRHgAAAAAAAAcAAABzZXJ2aWNlmx0AAAAAAACcHQAAAAAAAAAAAACcHQAAAAAAAJwdAAAAAAAABwAAAHNlcnZpY2VQJAAAAAAAAFEkAAAAAAAAAAAAAFIjAAAAAAAAUyMAAAAAAAAAAAAAaCIAAAAAAABpIgAAAAAAAAAAAABWIQAAAAAAAFchAAAAAAAAAAAAAFAgAAAAAAAAUSAAAAAAAAAAAAAAdB8AAAAAAAB1HwAAAAAAAAAAAACLHgAAAAAAAIweAAAAAAAAAAAAAJwdAAAAAAAAnR0AAAAAAAAAAAAAWCQAAAAAAABZJAAAAAAAAAAAAABZIwAAAAAAAFojAAAAAAAAAAAAAG4iAAAAAAAAbyIAAAAAAAAAAAAAWyEAAAAAAABcIQAAAAAAAAAAAABUIAAAAAAAAFUgAAAAAAAAAAAAAHcfAAAAAAAAeB8AAAAAAAAAAAAAjR4AAAAAAACOHgAAAAAAAAAAAACdHQAAAAAAAJ4dAAAAAAAAAAAAAGAkAAAAAAAAYSQAAAAAAAAAAAAAYCMAAAAAAABhIwAAAAAAAAAAAAB0IgAAAAAAAHUiAAAAAAAAAAAAAGAhAAAAAAAAYSEAAAAAAAAAAAAAWCAAAAAAAABZIAAAAAAAAAAAAAB6HwAAAAAAAHsfAAAAAAAAAAAAAI8eAAAAAAAAkB4AAAAAAAAAAAAAnh0AAAAAAACfHQAAAAAAAAAAAABoJAAAAAAAAGkkAAAAAAAAAAAAAGcjAAAAAAAAaCMAAAAAAAAAAAAAeiIAAAAAAAB7IgAAAAAAAAAAAABlIQAAAAAAAGYhAAAAAAAAAAAAAFwgAAAAAAAAXSAAAAAAAAAAAAAAfR8AAAAAAAB+HwAAAAAAAAAAAACRHgAAAAAAAJIeAAAAAAAAAAAAAJ8dAAAAAAAAoB0AAAAAAAAAAAAAcCQAAAAAAABxJAAAAAAAAAAAAABuIwAAAAAAAG8jAAAAAAAAAAAAAIAiAAAAAAAAgSIAAAAAAAAAAAAAaiEAAAAAAABrIQAAAAAAAAAAAABgIAAAAAAAAGEgAAAAAAAAAAAAAIAfAAAAAAAAgR8AAAAAAAAAAAAAkx4AAAAAAACUHgAAAAAAAAAAAACgHQAAAAAAAKEdAAAAAAAAAAAAAA",
+					"AQAAAAAAAAAIAAAAmx0AAAAAAACiHQAAAAAAAAAAAAAAAPC/kB4AAAAAAACXHgAAAAAAAAAAAAAAAPC/fx8AAAAAAACGHwAAAAAAAAAAAAAAAPC/YSAAAAAAAABoIAAAAAAAAAAAAAAAAPC/bSEAAAAAAAB0IQAAAAAAAAAAAAAAAPC/hSIAAAAAAACMIgAAAAAAAAAAAAAAAPC/dSMAAAAAAAB8IwAAAAAAAAAAAAAAAPC/eSQAAAAAAACAJAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					393,
+					2,
+					"left_delete",
+					null,
+					"EAAAAHckAAAAAAAAdyQAAAAAAAABAAAAdHQjAAAAAAAAdCMAAAAAAAABAAAAdIUiAAAAAAAAhSIAAAAAAAABAAAAdG4hAAAAAAAAbiEAAAAAAAABAAAAdGMgAAAAAAAAYyAAAAAAAAABAAAAdIIfAAAAAAAAgh8AAAAAAAABAAAAdJQeAAAAAAAAlB4AAAAAAAABAAAAdKAdAAAAAAAAoB0AAAAAAAABAAAAdG8kAAAAAAAAbyQAAAAAAAABAAAAbm0jAAAAAAAAbSMAAAAAAAABAAAAbn8iAAAAAAAAfyIAAAAAAAABAAAAbmkhAAAAAAAAaSEAAAAAAAABAAAAbl8gAAAAAAAAXyAAAAAAAAABAAAAbn8fAAAAAAAAfx8AAAAAAAABAAAAbpIeAAAAAAAAkh4AAAAAAAABAAAAbp8dAAAAAAAAnx0AAAAAAAABAAAAbg",
+					"AQAAAAAAAAAIAAAAoR0AAAAAAAChHQAAAAAAAAAAAAAAAPC/lR4AAAAAAACVHgAAAAAAAAAAAAAAAPC/gx8AAAAAAACDHwAAAAAAAAAAAAAAAPC/ZCAAAAAAAABkIAAAAAAAAAAAAAAAAPC/byEAAAAAAABvIQAAAAAAAAAAAAAAAPC/hiIAAAAAAACGIgAAAAAAAAAAAAAAAPC/dSMAAAAAAAB1IwAAAAAAAAAAAAAAAPC/eCQAAAAAAAB4JAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					394,
+					1,
+					"insert",
+					{
+						"characters": "ent"
+					},
+					"GAAAAGgkAAAAAAAAaSQAAAAAAAAAAAAAZyMAAAAAAABoIwAAAAAAAAAAAAB6IgAAAAAAAHsiAAAAAAAAAAAAAGUhAAAAAAAAZiEAAAAAAAAAAAAAXCAAAAAAAABdIAAAAAAAAAAAAAB9HwAAAAAAAH4fAAAAAAAAAAAAAJEeAAAAAAAAkh4AAAAAAAAAAAAAnx0AAAAAAACgHQAAAAAAAAAAAABwJAAAAAAAAHEkAAAAAAAAAAAAAG4jAAAAAAAAbyMAAAAAAAAAAAAAgCIAAAAAAACBIgAAAAAAAAAAAABqIQAAAAAAAGshAAAAAAAAAAAAAGAgAAAAAAAAYSAAAAAAAAAAAAAAgB8AAAAAAACBHwAAAAAAAAAAAACTHgAAAAAAAJQeAAAAAAAAAAAAAKAdAAAAAAAAoR0AAAAAAAAAAAAAeCQAAAAAAAB5JAAAAAAAAAAAAAB1IwAAAAAAAHYjAAAAAAAAAAAAAIYiAAAAAAAAhyIAAAAAAAAAAAAAbyEAAAAAAABwIQAAAAAAAAAAAABkIAAAAAAAAGUgAAAAAAAAAAAAAIMfAAAAAAAAhB8AAAAAAAAAAAAAlR4AAAAAAACWHgAAAAAAAAAAAAChHQAAAAAAAKIdAAAAAAAAAAAAAA",
+					"AQAAAAAAAAAIAAAAnx0AAAAAAACfHQAAAAAAAAAAAAAAAPC/kR4AAAAAAACRHgAAAAAAAAAAAAAAAPC/fR8AAAAAAAB9HwAAAAAAAAAAAAAAAPC/XCAAAAAAAABcIAAAAAAAAAAAAAAAAPC/ZSEAAAAAAABlIQAAAAAAAAAAAAAAAPC/eiIAAAAAAAB6IgAAAAAAAAAAAAAAAPC/ZyMAAAAAAABnIwAAAAAAAAAAAAAAAPC/aCQAAAAAAABoJAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					399,
+					1,
+					"insert",
+					{
+						"characters": "getPay"
+					},
+					"BwAAAKMdAAAAAAAApB0AAAAAAAAAAAAApB0AAAAAAACkHQAAAAAAAA0AAABnZXRTZXJ2aWNlX2lkpB0AAAAAAAClHQAAAAAAAAAAAAClHQAAAAAAAKYdAAAAAAAAAAAAAKYdAAAAAAAApx0AAAAAAAAAAAAApx0AAAAAAACoHQAAAAAAAAAAAACoHQAAAAAAAKkdAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAox0AAAAAAACwHQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					400,
+					1,
+					"insert",
+					{
+						"characters": "ment"
+					},
+					"BAAAAKkdAAAAAAAAqh0AAAAAAAAAAAAAqh0AAAAAAACrHQAAAAAAAAAAAACrHQAAAAAAAKwdAAAAAAAAAAAAAKwdAAAAAAAArR0AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqR0AAAAAAACpHQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					401,
+					1,
+					"insert",
+					{
+						"characters": "s_id"
+					},
+					"BAAAAK0dAAAAAAAArh0AAAAAAAAAAAAArh0AAAAAAACvHQAAAAAAAAAAAACvHQAAAAAAALAdAAAAAAAAAAAAALAdAAAAAAAAsR0AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArR0AAAAAAACtHQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					406,
+					1,
+					"insert",
+					{
+						"characters": "getSer"
+					},
+					"BwAAAJkeAAAAAAAAmh4AAAAAAAAAAAAAmh4AAAAAAACaHgAAAAAAAAcAAABnZXROYW1lmh4AAAAAAACbHgAAAAAAAAAAAACbHgAAAAAAAJweAAAAAAAAAAAAAJweAAAAAAAAnR4AAAAAAAAAAAAAnR4AAAAAAACeHgAAAAAAAAAAAACeHgAAAAAAAJ8eAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmR4AAAAAAACgHgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					407,
+					1,
+					"insert",
+					{
+						"characters": "vice_id"
+					},
+					"BwAAAJ8eAAAAAAAAoB4AAAAAAAAAAAAAoB4AAAAAAAChHgAAAAAAAAAAAAChHgAAAAAAAKIeAAAAAAAAAAAAAKIeAAAAAAAAox4AAAAAAAAAAAAAox4AAAAAAACkHgAAAAAAAAAAAACkHgAAAAAAAKUeAAAAAAAAAAAAAKUeAAAAAAAAph4AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnx4AAAAAAACfHgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					412,
+					1,
+					"insert",
+					{
+						"characters": "getContact"
+					},
+					"CwAAAI4fAAAAAAAAjx8AAAAAAAAAAAAAjx8AAAAAAACPHwAAAAAAAA4AAABnZXREZXNjcmlwdGlvbo8fAAAAAAAAkB8AAAAAAAAAAAAAkB8AAAAAAACRHwAAAAAAAAAAAACRHwAAAAAAAJIfAAAAAAAAAAAAAJIfAAAAAAAAkx8AAAAAAAAAAAAAkx8AAAAAAACUHwAAAAAAAAAAAACUHwAAAAAAAJUfAAAAAAAAAAAAAJUfAAAAAAAAlh8AAAAAAAAAAAAAlh8AAAAAAACXHwAAAAAAAAAAAACXHwAAAAAAAJgfAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjh8AAAAAAACcHwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					413,
+					1,
+					"insert",
+					{
+						"characters": "_no"
+					},
+					"AwAAAJgfAAAAAAAAmR8AAAAAAAAAAAAAmR8AAAAAAACaHwAAAAAAAAAAAACaHwAAAAAAAJsfAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmB8AAAAAAACYHwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					420,
+					1,
+					"insert",
+					{
+						"characters": "Price"
+					},
+					"BgAAAHIgAAAAAAAAcyAAAAAAAAAAAAAAcyAAAAAAAABzIAAAAAAAAAYAAABTdGF0dXNzIAAAAAAAAHQgAAAAAAAAAAAAAHQgAAAAAAAAdSAAAAAAAAAAAAAAdSAAAAAAAAB2IAAAAAAAAAAAAAB2IAAAAAAAAHcgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAeCAAAAAAAAByIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					425,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGMhAAAAAAAAYyEAAAAAAAAPAAAAU3RyaW5nLnZhbHVlT2Yo",
+					"AQAAAAAAAAABAAAAYyEAAAAAAAByIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					428,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHQhAAAAAAAAdCEAAAAAAAACAAAAKSk",
+					"AQAAAAAAAAABAAAAdiEAAAAAAAB0IQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					429,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+					},
+					"AgAAAHMhAAAAAAAAcyEAAAAAAAABAAAAKHMhAAAAAAAAcyEAAAAAAAABAAAAKQ",
+					"AQAAAAAAAAABAAAAdCEAAAAAAAB0IQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					430,
+					5,
+					"left_delete",
+					null,
+					"BQAAAHIhAAAAAAAAciEAAAAAAAABAAAAZXEhAAAAAAAAcSEAAAAAAAABAAAAY3AhAAAAAAAAcCEAAAAAAAABAAAAaW8hAAAAAAAAbyEAAAAAAAABAAAAcm4hAAAAAAAAbiEAAAAAAAABAAAAUA",
+					"AQAAAAAAAAABAAAAcyEAAAAAAABzIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					431,
+					1,
+					"insert",
+					{
+						"characters": ")"
+					},
+					"AQAAAG4hAAAAAAAAbyEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbiEAAAAAAABuIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					433,
+					1,
+					"insert",
+					{
+						"characters": "Star"
+					},
+					"BAAAAG4hAAAAAAAAbyEAAAAAAAAAAAAAbyEAAAAAAABwIQAAAAAAAAAAAABwIQAAAAAAAHEhAAAAAAAAAAAAAHEhAAAAAAAAciEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbiEAAAAAAABuIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					434,
+					1,
+					"insert",
+					{
+						"characters": "ting_time"
+					},
+					"CQAAAHIhAAAAAAAAcyEAAAAAAAAAAAAAcyEAAAAAAAB0IQAAAAAAAAAAAAB0IQAAAAAAAHUhAAAAAAAAAAAAAHUhAAAAAAAAdiEAAAAAAAAAAAAAdiEAAAAAAAB3IQAAAAAAAAAAAAB3IQAAAAAAAHghAAAAAAAAAAAAAHghAAAAAAAAeSEAAAAAAAAAAAAAeSEAAAAAAAB6IQAAAAAAAAAAAAB6IQAAAAAAAHshAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAciEAAAAAAAByIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					435,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAHshAAAAAAAAfSEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAeyEAAAAAAAB7IQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					442,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHMiAAAAAAAAcyIAAAAAAAAPAAAAU3RyaW5nLnZhbHVlT2Yo",
+					"AQAAAAAAAAABAAAAcyIAAAAAAACCIgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					447,
+					1,
+					"left_delete",
+					null,
+					"AQAAAIUiAAAAAAAAhSIAAAAAAAABAAAAKQ",
+					"AQAAAAAAAAABAAAAhiIAAAAAAACGIgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					451,
+					1,
+					"insert",
+					{
+						"characters": "Ending_t"
+					},
+					"CQAAAH4iAAAAAAAAfyIAAAAAAAAAAAAAfyIAAAAAAAB/IgAAAAAAAAUAAABQcmljZX8iAAAAAAAAgCIAAAAAAAAAAAAAgCIAAAAAAACBIgAAAAAAAAAAAACBIgAAAAAAAIIiAAAAAAAAAAAAAIIiAAAAAAAAgyIAAAAAAAAAAAAAgyIAAAAAAACEIgAAAAAAAAAAAACEIgAAAAAAAIUiAAAAAAAAAAAAAIUiAAAAAAAAhiIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgyIAAAAAAAB+IgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					452,
+					1,
+					"insert",
+					{
+						"characters": "ime"
+					},
+					"AwAAAIYiAAAAAAAAhyIAAAAAAAAAAAAAhyIAAAAAAACIIgAAAAAAAAAAAACIIgAAAAAAAIkiAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhiIAAAAAAACGIgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					457,
+					1,
+					"insert",
+					{
+						"characters": "getStatus"
+					},
+					"CgAAAHAjAAAAAAAAcSMAAAAAAAAAAAAAcSMAAAAAAABxIwAAAAAAAAgAAABnZXRQcmljZXEjAAAAAAAAciMAAAAAAAAAAAAAciMAAAAAAABzIwAAAAAAAAAAAABzIwAAAAAAAHQjAAAAAAAAAAAAAHQjAAAAAAAAdSMAAAAAAAAAAAAAdSMAAAAAAAB2IwAAAAAAAAAAAAB2IwAAAAAAAHcjAAAAAAAAAAAAAHcjAAAAAAAAeCMAAAAAAAAAAAAAeCMAAAAAAAB5IwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcCMAAAAAAAB4IwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					462,
+					1,
+					"insert",
+					{
+						"characters": "getDesc"
+					},
+					"CAAAAHUkAAAAAAAAdiQAAAAAAAAAAAAAdiQAAAAAAAB2JAAAAAAAAAgAAABnZXRQcmljZXYkAAAAAAAAdyQAAAAAAAAAAAAAdyQAAAAAAAB4JAAAAAAAAAAAAAB4JAAAAAAAAHkkAAAAAAAAAAAAAHkkAAAAAAAAeiQAAAAAAAAAAAAAeiQAAAAAAAB7JAAAAAAAAAAAAAB7JAAAAAAAAHwkAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdSQAAAAAAAB9JAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					463,
+					1,
+					"insert",
+					{
+						"characters": "ription"
+					},
+					"BwAAAHwkAAAAAAAAfSQAAAAAAAAAAAAAfSQAAAAAAAB+JAAAAAAAAAAAAAB+JAAAAAAAAH8kAAAAAAAAAAAAAH8kAAAAAAAAgCQAAAAAAAAAAAAAgCQAAAAAAACBJAAAAAAAAAAAAACBJAAAAAAAAIIkAAAAAAAAAAAAAIIkAAAAAAAAgyQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfCQAAAAAAAB8JAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					465,
+					1,
+					"left_delete",
+					null,
+					"AQAAAIUkAAAAAAAAhSQAAAAAAAABAAAAKQ",
+					"AQAAAAAAAAABAAAAhiQAAAAAAACGJAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					469,
+					1,
+					"left_delete",
+					null,
+					"AQAAAF4kAAAAAAAAXiQAAAAAAAAPAAAAU3RyaW5nLnZhbHVlT2Yo",
+					"AQAAAAAAAAABAAAAbSQAAAAAAABeJAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					499,
+					1,
+					"paste",
+					null,
+					"AQAAAC4IAAAAAAAAJwkAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALggAAAAAAAAuCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					508,
+					1,
+					"paste",
+					null,
+					"CAAAAAwJAAAAAAAAHwkAAAAAAAAAAAAAHwkAAAAAAAAfCQAAAAAAABYAAAByZWplY3RlZF9tcGVzYV9yZXF1ZXN00wgAAAAAAADmCAAAAAAAAAAAAADmCAAAAAAAAOYIAAAAAAAAFgAAAHJlamVjdGVkX21wZXNhX3JlcXVlc3SQCAAAAAAAAKMIAAAAAAAAAAAAAKMIAAAAAAAAowgAAAAAAAAWAAAAcmVqZWN0ZWRfbXBlc2FfcmVxdWVzdFYIAAAAAAAAaQgAAAAAAAAAAAAAaQgAAAAAAABpCAAAAAAAABYAAAByZWplY3RlZF9tcGVzYV9yZXF1ZXN0",
+					"AQAAAAAAAAAEAAAAVggAAAAAAABsCAAAAAAAAAAAAAAAAPC/kAgAAAAAAACmCAAAAAAAAAAAAAAAAPC/0wgAAAAAAADpCAAAAAAAAAAAAAAAAPC/DAkAAAAAAAAiCQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					522,
+					1,
+					"paste",
+					null,
+					"BAAAAMMrAAAAAAAA1isAAAAAAAAAAAAA1isAAAAAAADWKwAAAAAAABMAAABzZXJ2aWNlX25vdF9wcmVzZW50+SoAAAAAAAAMKwAAAAAAAAAAAAAMKwAAAAAAAAwrAAAAAAAAEwAAAHNlcnZpY2Vfbm90X3ByZXNlbnQ",
+					"AQAAAAAAAAACAAAA+SoAAAAAAAAMKwAAAAAAAAAAAAAAAPC/wysAAAAAAADWKwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					530,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAIMBAAAAAAAAhAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgwEAAAAAAACDAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					531,
+					1,
+					"paste",
+					null,
+					"AQAAAIQBAAAAAAAAuAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhAEAAAAAAACEAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					535,
+					1,
+					"paste",
+					null,
+					"AQAAANgAAAAAAAAACAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2AAAAAAAAADYAAAAAAAAAAAAAAAAAFVA"
+				],
+				[
+					538,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAOgBAAAAAAAA6QEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6AEAAAAAAADoAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					539,
+					1,
+					"paste",
+					null,
+					"AQAAAOkBAAAAAAAABQIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6QEAAAAAAADpAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					541,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAUCAAAAAAAABQIAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAABgIAAAAAAAAGAgAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					544,
+					1,
+					"insert",
+					{
+						"characters": "_item"
+					},
+					"BQAAAFEnAAAAAAAAUicAAAAAAAAAAAAAUicAAAAAAABTJwAAAAAAAAAAAABTJwAAAAAAAFQnAAAAAAAAAAAAAFQnAAAAAAAAVScAAAAAAAAAAAAAVScAAAAAAABWJwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUScAAAAAAABRJwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					549,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAEgvAAAAAAAASS8AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASC8AAAAAAABILwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					550,
+					1,
+					"reindent",
+					null,
+					"AQAAAEkvAAAAAAAAUS8AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASS8AAAAAAABJLwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					554,
+					1,
+					"insert",
+					{
+						"characters": "Operations"
+					},
+					"CwAAAKAYAAAAAAAAoRgAAAAAAAAAAAAASi8AAAAAAABKLwAAAAAAAAgAAAAgICAgICAgIKEYAAAAAAAAohgAAAAAAAAAAAAAohgAAAAAAACjGAAAAAAAAAAAAACjGAAAAAAAAKQYAAAAAAAAAAAAAKQYAAAAAAAApRgAAAAAAAAAAAAApRgAAAAAAACmGAAAAAAAAAAAAACmGAAAAAAAAKcYAAAAAAAAAAAAAKcYAAAAAAAAqBgAAAAAAAAAAAAAqBgAAAAAAACpGAAAAAAAAAAAAACpGAAAAAAAAKoYAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAoBgAAAAAAACgGAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					555,
+					1,
+					"left_delete",
+					null,
+					"AQAAAKkYAAAAAAAAqRgAAAAAAAABAAAAcw",
+					"AQAAAAAAAAABAAAAqhgAAAAAAACqGAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					562,
+					1,
+					"insert",
+					{
+						"characters": "payemnt"
+					},
+					"CAAAADkcAAAAAAAAOhwAAAAAAAAAAAAAOhwAAAAAAAA6HAAAAAAAAAcAAABzZXJ2aWNlOhwAAAAAAAA7HAAAAAAAAAAAAAA7HAAAAAAAADwcAAAAAAAAAAAAADwcAAAAAAAAPRwAAAAAAAAAAAAAPRwAAAAAAAA+HAAAAAAAAAAAAAA+HAAAAAAAAD8cAAAAAAAAAAAAAD8cAAAAAAAAQBwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAORwAAAAAAABAHAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					563,
+					4,
+					"left_delete",
+					null,
+					"BAAAAD8cAAAAAAAAPxwAAAAAAAABAAAAdD4cAAAAAAAAPhwAAAAAAAABAAAAbj0cAAAAAAAAPRwAAAAAAAABAAAAbTwcAAAAAAAAPBwAAAAAAAABAAAAZQ",
+					"AQAAAAAAAAABAAAAQBwAAAAAAABAHAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					564,
+					1,
+					"insert",
+					{
+						"characters": "ment"
+					},
+					"BAAAADwcAAAAAAAAPRwAAAAAAAAAAAAAPRwAAAAAAAA+HAAAAAAAAAAAAAA+HAAAAAAAAD8cAAAAAAAAAAAAAD8cAAAAAAAAQBwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPBwAAAAAAAA8HAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					567,
+					1,
+					"paste",
+					null,
+					"AQAAAFEvAAAAAAAA1zUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUS8AAAAAAABRLwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					568,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAANc1AAAAAAAA2DUAAAAAAAAAAAAA2DUAAAAAAADgNQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1zUAAAAAAADXNQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					572,
+					1,
+					"insert",
+					{
+						"characters": "\t\t"
+					},
+					"AwAAAFIvAAAAAAAAVS8AAAAAAAAAAAAA2zUAAAAAAADbNQAAAAAAAAgAAAAgICAgICAgIFUvAAAAAAAAWS8AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUi8AAAAAAABSLwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					583,
+					1,
+					"paste",
+					null,
+					"AgAAAFIwAAAAAAAAYjAAAAAAAAAAAAAAYjAAAAAAAABiMAAAAAAAABAAAABmZXRjaEFsbFNlcnZpY2Vz",
+					"AQAAAAAAAAABAAAAUjAAAAAAAABiMAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					598,
+					1,
+					"paste",
+					null,
+					"AgAAAFEvAAAAAAAAxD8AAAAAAAAAAAAAxD8AAAAAAADEPwAAAAAAAI4GAAAgICAgICAgIC8vIFN0YXJ0IFRpbWVyOgoKICAgICAgICBJbnN0YW50IHN0YXJ0VGltZSA9IEluc3RhbnQubm93KCk7CgogICAgICAgIFJlc3BvbnNlIHJlc3BvbnNlID0gbmV3IFJlc3BvbnNlKCk7CgogICAgICAgIFN0cmluZyBlcnJvciA9ICIiOwogICAgCiAgICAgICAgdXRpbGl0aWVzLmxvZ1N0YXJ0KHJlcXVlc3QuZ2V0U2VydmljZVJlcXVlc3QoKS5nZXRIZWFkZXIoKS5nZXRSZXF1ZXN0UmVmSUQoKS50b1N0cmluZygpLCAKICAgICAgICAgICAgImZldGNoQWxsUGF5bWVudHMiLCByZXF1ZXN0LnRvU3RyaW5nKCkpOwoKICAgICAgICBIYXNoTWFwPFN0cmluZywgU3RyaW5nPiBtYWluc2VydmljZV9yZXF1ZXN0ID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIAoKICAgICAgICByZXNwb25zZS5zZXRTZXJ2aWNlUmVzcG9uc2UobmV3IFJlc3BvbnNlLlNlcnZpY2VSZXNwb25zZSgpKTsKICAgICAgICByZXNwb25zZS5nZXRTZXJ2aWNlUmVzcG9uc2UoKS5zZXRIZWFkZXIobmV3IFJlc3BvbnNlLlNlcnZpY2VSZXNwb25zZS5IZWFkZXIoKSk7CiAgICAgICAgcmVzcG9uc2UuZ2V0U2VydmljZVJlc3BvbnNlKCkuc2V0Qm9keShuZXcgUmVzcG9uc2UuU2VydmljZVJlc3BvbnNlLkJvZHkoKSk7CiAgICAgICAgCgoKICAgICAgICB0cnl7CgogICAgICAgICAgICAKICAgICAgICAgICAgbWFpbnNlcnZpY2VfcmVxdWVzdC5wdXQoInJlcXVlc3RfcmVmX2lkIiwgcmVxdWVzdC5nZXRTZXJ2aWNlUmVxdWVzdCgpLmdldEhlYWRlcigpLmdldFJlcXVlc3RSZWZJRCgpKTsKICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgcmVzcG9uc2UgPSBtYWluU2VydmljZS5mZXRjaEFsbFNlcnZpY2VzT3BlcmF0aW9uKG1haW5zZXJ2aWNlX3JlcXVlc3QpOwoKCiAgICAgICAgfWNhdGNoKEV4Y2VwdGlvbiBlKXsKCgoKICAgICAgICAgICAgZXJyb3I9ZS50b1N0cmluZygpOwoKICAgICAgICAgICAgcmVzcG9uc2UuZ2V0U2VydmljZVJlc3BvbnNlKCkuZ2V0SGVhZGVyKCkuc2V0UmVzcG9uc2VDb2RlKHJlc3BvbnNlY29kZV9pbnRlcm5hbF9leGNlcHRpb24pOwogICAgICAgICAgICByZXNwb25zZS5nZXRTZXJ2aWNlUmVzcG9uc2UoKS5nZXRIZWFkZXIoKS5zZXRSZXNwb25zZU1zZyhyZXNwb25zZW1zZ19mYWlsdXJlKTsKICAgICAgICAgICAgcmVzcG9uc2UuZ2V0U2VydmljZVJlc3BvbnNlKCkuZ2V0SGVhZGVyKCkuc2V0RGV0YWlsZWRNc2coZGV0YWlsZWRtc2dfaW50ZXJuYWxfZXhjZXB0aW9uKTsKCgogICAgICAgIH1maW5hbGx5ewoKICAgICAgICAgICAgSW5zdGFudCBlbmRUaW1lID0gSW5zdGFudC5ub3coKTsKCiAgICAgICAgICAgIHJlc3BvbnNlLmdldFNlcnZpY2VSZXNwb25zZSgpLmdldEhlYWRlcigpLnNldFJlc3BvbnNlUmVmSUQocmVxdWVzdC5nZXRTZXJ2aWNlUmVxdWVzdCgpLmdldEhlYWRlcigpLmdldFJlcXVlc3RSZWZJRCgpKTsKCiAgICAgICAgICAgIHV0aWxpdGllcy5sb2dFbmQocmVxdWVzdC5nZXRTZXJ2aWNlUmVxdWVzdCgpLmdldEhlYWRlcigpLmdldFJlcXVlc3RSZWZJRCgpLnRvU3RyaW5nKCksIAogICAgICAgICAgICAgICAgImZldGNoQWxsU2VydmljZXMiLCBzdGFydFRpbWUsIGVuZFRpbWUsIHJlcXVlc3QudG9TdHJpbmcoKSwgcmVzcG9uc2UudG9TdHJpbmcoKSwgZXJyb3IpOwoKICAgICAgICB9CgogICAgICAgIHJldHVybiByZXNwb25zZTsK",
+					"AQAAAAAAAAABAAAAUS8AAAAAAADfNQAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					608,
+					1,
+					"paste",
+					null,
+					"AgAAAB4wAAAAAAAALjAAAAAAAAAAAAAALjAAAAAAAAAuMAAAAAAAABkAAABmZXRjaEFsbFNlcnZpY2VzT3BlcmF0aW9u",
+					"AQAAAAAAAAABAAAAHjAAAAAAAAA3MAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					609,
+					1,
+					"insert",
+					{
+						"characters": "P"
+					},
+					"AQAAAC4wAAAAAAAALzAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALjAAAAAAAAAuMAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					610,
+					1,
+					"left_delete",
+					null,
+					"AQAAAC4wAAAAAAAALjAAAAAAAAABAAAAUA",
+					"AQAAAAAAAAABAAAALzAAAAAAAAAvMAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					611,
+					1,
+					"insert",
+					{
+						"characters": "Operation"
+					},
+					"CQAAAC4wAAAAAAAALzAAAAAAAAAAAAAALzAAAAAAAAAwMAAAAAAAAAAAAAAwMAAAAAAAADEwAAAAAAAAAAAAADEwAAAAAAAAMjAAAAAAAAAAAAAAMjAAAAAAAAAzMAAAAAAAAAAAAAAzMAAAAAAAADQwAAAAAAAAAAAAADQwAAAAAAAANTAAAAAAAAAAAAAANTAAAAAAAAA2MAAAAAAAAAAAAAA2MAAAAAAAADcwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALjAAAAAAAAAuMAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					614,
+					1,
+					"insert",
+					{
+						"characters": "Operation"
+					},
+					"CQAAAC0vAAAAAAAALi8AAAAAAAAAAAAALi8AAAAAAAAvLwAAAAAAAAAAAAAvLwAAAAAAADAvAAAAAAAAAAAAADAvAAAAAAAAMS8AAAAAAAAAAAAAMS8AAAAAAAAyLwAAAAAAAAAAAAAyLwAAAAAAADMvAAAAAAAAAAAAADMvAAAAAAAANC8AAAAAAAAAAAAANC8AAAAAAAA1LwAAAAAAAAAAAAA1LwAAAAAAADYvAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALS8AAAAAAAAtLwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					635,
+					1,
+					"insert",
+					{
+						"characters": "fect"
+					},
+					"HgAAACw/AAAAAAAALT8AAAAAAAAAAAAALT8AAAAAAAAtPwAAAAAAABAAAABmZXRjaEFsbFNlcnZpY2VzSjMAAAAAAABLMwAAAAAAAAAAAABLMwAAAAAAAEszAAAAAAAAEAAAAGZldGNoQWxsU2VydmljZXPKMgAAAAAAAMsyAAAAAAAAAAAAAMsyAAAAAAAAyzIAAAAAAAAQAAAAZmV0Y2hBbGxTZXJ2aWNlc0AyAAAAAAAAQTIAAAAAAAAAAAAAQTIAAAAAAABBMgAAAAAAABAAAABmZXRjaEFsbFNlcnZpY2VzFDIAAAAAAAAVMgAAAAAAAAAAAAAVMgAAAAAAABUyAAAAAAAAEAAAAGZldGNoQWxsU2VydmljZXPrMQAAAAAAAOwxAAAAAAAAAAAAAOwxAAAAAAAA7DEAAAAAAAAQAAAAZmV0Y2hBbGxTZXJ2aWNlc+I+AAAAAAAA4z4AAAAAAAAAAAAADzMAAAAAAAAQMwAAAAAAAAAAAACeMgAAAAAAAJ8yAAAAAAAAAAAAACMyAAAAAAAAJDIAAAAAAAAAAAAABjIAAAAAAAAHMgAAAAAAAAAAAADsMQAAAAAAAO0xAAAAAAAAAAAAAOg+AAAAAAAA6T4AAAAAAAAAAAAAFDMAAAAAAAAVMwAAAAAAAAAAAACiMgAAAAAAAKMyAAAAAAAAAAAAACYyAAAAAAAAJzIAAAAAAAAAAAAACDIAAAAAAAAJMgAAAAAAAAAAAADtMQAAAAAAAO4xAAAAAAAAAAAAAO4+AAAAAAAA7z4AAAAAAAAAAAAAGTMAAAAAAAAaMwAAAAAAAAAAAACmMgAAAAAAAKcyAAAAAAAAAAAAACkyAAAAAAAAKjIAAAAAAAAAAAAACjIAAAAAAAALMgAAAAAAAAAAAADuMQAAAAAAAO8xAAAAAAAAAAAAAA",
+					"AQAAAAAAAAAGAAAA6zEAAAAAAAD7MQAAAAAAAAAAAAAAAPC/FDIAAAAAAAAkMgAAAAAAAAAAAAAAAPC/QDIAAAAAAABQMgAAAAAAAAAAAAAAAPC/yjIAAAAAAADaMgAAAAAAAAAAAAAAAPC/SjMAAAAAAABaMwAAAAAAAAAAAAAAAPC/LD8AAAAAAAA8PwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					636,
+					2,
+					"left_delete",
+					null,
+					"DAAAAPM+AAAAAAAA8z4AAAAAAAABAAAAdB0zAAAAAAAAHTMAAAAAAAABAAAAdKkyAAAAAAAAqTIAAAAAAAABAAAAdCsyAAAAAAAAKzIAAAAAAAABAAAAdAsyAAAAAAAACzIAAAAAAAABAAAAdO4xAAAAAAAA7jEAAAAAAAABAAAAdO0+AAAAAAAA7T4AAAAAAAABAAAAYxgzAAAAAAAAGDMAAAAAAAABAAAAY6UyAAAAAAAApTIAAAAAAAABAAAAYygyAAAAAAAAKDIAAAAAAAABAAAAYwkyAAAAAAAACTIAAAAAAAABAAAAY+0xAAAAAAAA7TEAAAAAAAABAAAAYw",
+					"AQAAAAAAAAAGAAAA7zEAAAAAAADvMQAAAAAAAAAAAAAAAPC/DDIAAAAAAAAMMgAAAAAAAAAAAAAAAPC/LDIAAAAAAAAsMgAAAAAAAAAAAAAAAPC/qjIAAAAAAACqMgAAAAAAAAAAAAAAAPC/HjMAAAAAAAAeMwAAAAAAAAAAAAAAAPC/9D4AAAAAAAD0PgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					637,
+					1,
+					"insert",
+					{
+						"characters": "tchAllPa"
+					},
+					"MAAAAOg+AAAAAAAA6T4AAAAAAAAAAAAAFDMAAAAAAAAVMwAAAAAAAAAAAACiMgAAAAAAAKMyAAAAAAAAAAAAACYyAAAAAAAAJzIAAAAAAAAAAAAACDIAAAAAAAAJMgAAAAAAAAAAAADtMQAAAAAAAO4xAAAAAAAAAAAAAO4+AAAAAAAA7z4AAAAAAAAAAAAAGTMAAAAAAAAaMwAAAAAAAAAAAACmMgAAAAAAAKcyAAAAAAAAAAAAACkyAAAAAAAAKjIAAAAAAAAAAAAACjIAAAAAAAALMgAAAAAAAAAAAADuMQAAAAAAAO8xAAAAAAAAAAAAAPQ+AAAAAAAA9T4AAAAAAAAAAAAAHjMAAAAAAAAfMwAAAAAAAAAAAACqMgAAAAAAAKsyAAAAAAAAAAAAACwyAAAAAAAALTIAAAAAAAAAAAAADDIAAAAAAAANMgAAAAAAAAAAAADvMQAAAAAAAPAxAAAAAAAAAAAAAPo+AAAAAAAA+z4AAAAAAAAAAAAAIzMAAAAAAAAkMwAAAAAAAAAAAACuMgAAAAAAAK8yAAAAAAAAAAAAAC8yAAAAAAAAMDIAAAAAAAAAAAAADjIAAAAAAAAPMgAAAAAAAAAAAADwMQAAAAAAAPExAAAAAAAAAAAAAAA/AAAAAAAAAT8AAAAAAAAAAAAAKDMAAAAAAAApMwAAAAAAAAAAAACyMgAAAAAAALMyAAAAAAAAAAAAADIyAAAAAAAAMzIAAAAAAAAAAAAAEDIAAAAAAAARMgAAAAAAAAAAAADxMQAAAAAAAPIxAAAAAAAAAAAAAAY/AAAAAAAABz8AAAAAAAAAAAAALTMAAAAAAAAuMwAAAAAAAAAAAAC2MgAAAAAAALcyAAAAAAAAAAAAADUyAAAAAAAANjIAAAAAAAAAAAAAEjIAAAAAAAATMgAAAAAAAAAAAADyMQAAAAAAAPMxAAAAAAAAAAAAAAw/AAAAAAAADT8AAAAAAAAAAAAAMjMAAAAAAAAzMwAAAAAAAAAAAAC6MgAAAAAAALsyAAAAAAAAAAAAADgyAAAAAAAAOTIAAAAAAAAAAAAAFDIAAAAAAAAVMgAAAAAAAAAAAADzMQAAAAAAAPQxAAAAAAAAAAAAABI/AAAAAAAAEz8AAAAAAAAAAAAANzMAAAAAAAA4MwAAAAAAAAAAAAC+MgAAAAAAAL8yAAAAAAAAAAAAADsyAAAAAAAAPDIAAAAAAAAAAAAAFjIAAAAAAAAXMgAAAAAAAAAAAAD0MQAAAAAAAPUxAAAAAAAAAAAAAA",
+					"AQAAAAAAAAAGAAAA7TEAAAAAAADtMQAAAAAAAAAAAAAAAPC/CDIAAAAAAAAIMgAAAAAAAAAAAAAAAPC/JjIAAAAAAAAmMgAAAAAAAAAAAAAAAPC/ojIAAAAAAACiMgAAAAAAAAAAAAAAAPC/FDMAAAAAAAAUMwAAAAAAAAAAAAAAAPC/6D4AAAAAAADoPgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					638,
+					1,
+					"insert",
+					{
+						"characters": "yments"
+					},
+					"JAAAABg/AAAAAAAAGT8AAAAAAAAAAAAAPDMAAAAAAAA9MwAAAAAAAAAAAADCMgAAAAAAAMMyAAAAAAAAAAAAAD4yAAAAAAAAPzIAAAAAAAAAAAAAGDIAAAAAAAAZMgAAAAAAAAAAAAD1MQAAAAAAAPYxAAAAAAAAAAAAAB4/AAAAAAAAHz8AAAAAAAAAAAAAQTMAAAAAAABCMwAAAAAAAAAAAADGMgAAAAAAAMcyAAAAAAAAAAAAAEEyAAAAAAAAQjIAAAAAAAAAAAAAGjIAAAAAAAAbMgAAAAAAAAAAAAD2MQAAAAAAAPcxAAAAAAAAAAAAACQ/AAAAAAAAJT8AAAAAAAAAAAAARjMAAAAAAABHMwAAAAAAAAAAAADKMgAAAAAAAMsyAAAAAAAAAAAAAEQyAAAAAAAARTIAAAAAAAAAAAAAHDIAAAAAAAAdMgAAAAAAAAAAAAD3MQAAAAAAAPgxAAAAAAAAAAAAACo/AAAAAAAAKz8AAAAAAAAAAAAASzMAAAAAAABMMwAAAAAAAAAAAADOMgAAAAAAAM8yAAAAAAAAAAAAAEcyAAAAAAAASDIAAAAAAAAAAAAAHjIAAAAAAAAfMgAAAAAAAAAAAAD4MQAAAAAAAPkxAAAAAAAAAAAAADA/AAAAAAAAMT8AAAAAAAAAAAAAUDMAAAAAAABRMwAAAAAAAAAAAADSMgAAAAAAANMyAAAAAAAAAAAAAEoyAAAAAAAASzIAAAAAAAAAAAAAIDIAAAAAAAAhMgAAAAAAAAAAAAD5MQAAAAAAAPoxAAAAAAAAAAAAADY/AAAAAAAANz8AAAAAAAAAAAAAVTMAAAAAAABWMwAAAAAAAAAAAADWMgAAAAAAANcyAAAAAAAAAAAAAE0yAAAAAAAATjIAAAAAAAAAAAAAIjIAAAAAAAAjMgAAAAAAAAAAAAD6MQAAAAAAAPsxAAAAAAAAAAAAAA",
+					"AQAAAAAAAAAGAAAA9TEAAAAAAAD1MQAAAAAAAAAAAAAAAPC/GDIAAAAAAAAYMgAAAAAAAAAAAAAAAPC/PjIAAAAAAAA+MgAAAAAAAAAAAAAAAPC/wjIAAAAAAADCMgAAAAAAAAAAAAAAAPC/PDMAAAAAAAA8MwAAAAAAAAAAAAAAAPC/GD8AAAAAAAAYPwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					646,
+					1,
+					"left_delete",
+					null,
+					"AQAAAIcyAAAAAAAAhzIAAAAAAACCAAAAICAgICAgICAgICAgICAgIC8vIExpc3Q8U2VydmljZXM+IHNlcnZpY2VzX2xpc3QgPSBtYXBwZXIucmVhZFZhbHVlKGZldGNoQWxsUGF5bWVudHNfcmVzcG9uc2UuZ2V0KCJzZXJ2aWNlX2RldGFpbHMiKSwgTGlzdC5jbGFzcyk7Cg",
+					"AQAAAAAAAAABAAAAhzIAAAAAAAAJMwAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					653,
+					1,
+					"insert",
+					{
+						"characters": "payment"
+					},
+					"CAAAAOcyAAAAAAAA6DIAAAAAAAAAAAAA6DIAAAAAAADoMgAAAAAAAAcAAABzZXJ2aWNl6DIAAAAAAADpMgAAAAAAAAAAAADpMgAAAAAAAOoyAAAAAAAAAAAAAOoyAAAAAAAA6zIAAAAAAAAAAAAA6zIAAAAAAADsMgAAAAAAAAAAAADsMgAAAAAAAO0yAAAAAAAAAAAAAO0yAAAAAAAA7jIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5zIAAAAAAADuMgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					665,
+					1,
+					"insert",
+					{
+						"characters": "payment"
+					},
+					"EAAAABE0AAAAAAAAEjQAAAAAAAAAAAAAEjQAAAAAAAASNAAAAAAAAAgAAABzZXJ2aWNlc6cyAAAAAAAAqDIAAAAAAAAAAAAAqDIAAAAAAACoMgAAAAAAAAgAAABzZXJ2aWNlcws0AAAAAAAADDQAAAAAAAAAAAAAqDIAAAAAAACpMgAAAAAAAAAAAAANNAAAAAAAAA40AAAAAAAAAAAAAKkyAAAAAAAAqjIAAAAAAAAAAAAADzQAAAAAAAAQNAAAAAAAAAAAAACqMgAAAAAAAKsyAAAAAAAAAAAAABE0AAAAAAAAEjQAAAAAAAAAAAAAqzIAAAAAAACsMgAAAAAAAAAAAAATNAAAAAAAABQ0AAAAAAAAAAAAAKwyAAAAAAAArTIAAAAAAAAAAAAAFTQAAAAAAAAWNAAAAAAAAAAAAACtMgAAAAAAAK4yAAAAAAAAAAAAAA",
+					"AQAAAAAAAAACAAAApzIAAAAAAACvMgAAAAAAAAAAAAAAAPC/ETQAAAAAAAAZNAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					672,
+					1,
+					"insert",
+					{
+						"characters": "Payments"
+					},
+					"CQAAAP4zAAAAAAAA/zMAAAAAAAAAAAAA/zMAAAAAAAD/MwAAAAAAAAgAAABTZXJ2aWNlc/8zAAAAAAAAADQAAAAAAAAAAAAAADQAAAAAAAABNAAAAAAAAAAAAAABNAAAAAAAAAI0AAAAAAAAAAAAAAI0AAAAAAAAAzQAAAAAAAAAAAAAAzQAAAAAAAAENAAAAAAAAAAAAAAENAAAAAAAAAU0AAAAAAAAAAAAAAU0AAAAAAAABjQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/jMAAAAAAAAGNAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					693,
+					1,
+					"insert",
+					{
+						"characters": "payment"
+					},
+					"KAAAAJM4AAAAAAAAlDgAAAAAAAAAAAAAlDgAAAAAAACUOAAAAAAAAAcAAABzZXJ2aWNlpzcAAAAAAACoNwAAAAAAAAAAAACoNwAAAAAAAKg3AAAAAAAABwAAAHNlcnZpY2XBNgAAAAAAAMI2AAAAAAAAAAAAAMI2AAAAAAAAwjYAAAAAAAAHAAAAc2VydmljZc41AAAAAAAAzzUAAAAAAAAAAAAAzzUAAAAAAADPNQAAAAAAAAcAAABzZXJ2aWNl8TQAAAAAAADyNAAAAAAAAAAAAADyNAAAAAAAAPI0AAAAAAAABwAAAHNlcnZpY2V8OAAAAAAAAH04AAAAAAAAAAAAAJY3AAAAAAAAlzcAAAAAAAAAAAAAtjYAAAAAAAC3NgAAAAAAAAAAAADJNQAAAAAAAMo1AAAAAAAAAAAAAPI0AAAAAAAA8zQAAAAAAAAAAAAAgTgAAAAAAACCOAAAAAAAAAAAAACaNwAAAAAAAJs3AAAAAAAAAAAAALk2AAAAAAAAujYAAAAAAAAAAAAAyzUAAAAAAADMNQAAAAAAAAAAAADzNAAAAAAAAPQ0AAAAAAAAAAAAAIY4AAAAAAAAhzgAAAAAAAAAAAAAnjcAAAAAAACfNwAAAAAAAAAAAAC8NgAAAAAAAL02AAAAAAAAAAAAAM01AAAAAAAAzjUAAAAAAAAAAAAA9DQAAAAAAAD1NAAAAAAAAAAAAACLOAAAAAAAAIw4AAAAAAAAAAAAAKI3AAAAAAAAozcAAAAAAAAAAAAAvzYAAAAAAADANgAAAAAAAAAAAADPNQAAAAAAANA1AAAAAAAAAAAAAPU0AAAAAAAA9jQAAAAAAAAAAAAAkDgAAAAAAACROAAAAAAAAAAAAACmNwAAAAAAAKc3AAAAAAAAAAAAAMI2AAAAAAAAwzYAAAAAAAAAAAAA0TUAAAAAAADSNQAAAAAAAAAAAAD2NAAAAAAAAPc0AAAAAAAAAAAAAJU4AAAAAAAAljgAAAAAAAAAAAAAqjcAAAAAAACrNwAAAAAAAAAAAADFNgAAAAAAAMY2AAAAAAAAAAAAANM1AAAAAAAA1DUAAAAAAAAAAAAA9zQAAAAAAAD4NAAAAAAAAAAAAAA",
+					"AQAAAAAAAAAFAAAA8TQAAAAAAAD4NAAAAAAAAAAAAAAAAPC/zjUAAAAAAADVNQAAAAAAAAAAAAAAAPC/wTYAAAAAAADINgAAAAAAAAAAAAAAAPC/pzcAAAAAAACuNwAAAAAAAAAAAAAAAPC/kzgAAAAAAACaOAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					698,
+					1,
+					"insert",
+					{
+						"characters": "paye"
+					},
+					"BQAAAAc0AAAAAAAACDQAAAAAAAAAAAAACDQAAAAAAAAINAAAAAAAAAcAAABzZXJ2aWNlCDQAAAAAAAAJNAAAAAAAAAAAAAAJNAAAAAAAAAo0AAAAAAAAAAAAAAo0AAAAAAAACzQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABzQAAAAAAAAONAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					699,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAo0AAAAAAAACjQAAAAAAAABAAAAZQ",
+					"AQAAAAAAAAABAAAACzQAAAAAAAALNAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					700,
+					1,
+					"insert",
+					{
+						"characters": "ment"
+					},
+					"BAAAAAo0AAAAAAAACzQAAAAAAAAAAAAACzQAAAAAAAAMNAAAAAAAAAAAAAAMNAAAAAAAAA00AAAAAAAAAAAAAA00AAAAAAAADjQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACjQAAAAAAAAKNAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					721,
+					1,
+					"paste",
+					null,
+					"AgAAACA0AAAAAAAA2TsAAAAAAAAAAAAA2TsAAAAAAADZOwAAAAAAAJ4EAAAgICAgICAgICAgICAgICAgICAgIFJlc3BvbnNlLlNlcnZpY2VSZXNwb25zZS5Cb2R5Lkl0ZW0gc2VydmljZV9pdGVtID0gbmV3IFJlc3BvbnNlLlNlcnZpY2VSZXNwb25zZS5Cb2R5Lkl0ZW0oKTsKICAgICAgICAgICAgICAgICAgICBzZXJ2aWNlX2l0ZW0uc2V0S2V5KCJzZXJ2aWNlX2lkIik7CiAgICAgICAgICAgICAgICAgICAgc2VydmljZV9pdGVtLnNldFZhbHVlKHBheW1lbnQuZ2V0U2VydmljZV9pZCgpKTsKCiAgICAgICAgICAgICAgICAgICAgUmVzcG9uc2UuU2VydmljZVJlc3BvbnNlLkJvZHkuSXRlbSBuYW1lX2l0ZW0gPSBuZXcgUmVzcG9uc2UuU2VydmljZVJlc3BvbnNlLkJvZHkuSXRlbSgpOwogICAgICAgICAgICAgICAgICAgIG5hbWVfaXRlbS5zZXRLZXkoIm5hbWUiKTsKICAgICAgICAgICAgICAgICAgICBuYW1lX2l0ZW0uc2V0VmFsdWUocGF5bWVudC5nZXROYW1lKCkpOwoKICAgICAgICAgICAgICAgICAgICBSZXNwb25zZS5TZXJ2aWNlUmVzcG9uc2UuQm9keS5JdGVtIGRlc2NyaXB0aW9uX2l0ZW0gPSBuZXcgUmVzcG9uc2UuU2VydmljZVJlc3BvbnNlLkJvZHkuSXRlbSgpOwogICAgICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uX2l0ZW0uc2V0S2V5KCJkZXNjcmlwdGlvbiIpOwogICAgICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uX2l0ZW0uc2V0VmFsdWUocGF5bWVudC5nZXREZXNjcmlwdGlvbigpKTsKCiAgICAgICAgICAgICAgICAgICAgUmVzcG9uc2UuU2VydmljZVJlc3BvbnNlLkJvZHkuSXRlbSBzdGF0dXNfaXRlbSA9IG5ldyBSZXNwb25zZS5TZXJ2aWNlUmVzcG9uc2UuQm9keS5JdGVtKCk7CiAgICAgICAgICAgICAgICAgICAgc3RhdHVzX2l0ZW0uc2V0S2V5KCJzdGF0dXMiKTsKICAgICAgICAgICAgICAgICAgICBzdGF0dXNfaXRlbS5zZXRWYWx1ZShwYXltZW50LmdldFN0YXR1cygpKTsKCiAgICAgICAgICAgICAgICAgICAgUmVzcG9uc2UuU2VydmljZVJlc3BvbnNlLkJvZHkuSXRlbSBwcmljZV9pdGVtID0gbmV3IFJlc3BvbnNlLlNlcnZpY2VSZXNwb25zZS5Cb2R5Lkl0ZW0oKTsKICAgICAgICAgICAgICAgICAgICBwcmljZV9pdGVtLnNldEtleSgicHJpY2UiKTsKICAgICAgICAgICAgICAgICAgICBwcmljZV9pdGVtLnNldFZhbHVlKFN0cmluZy52YWx1ZU9mKHBheW1lbnQuZ2V0UHJpY2UoKSkpOwogICAgICAgICAgICAgICAgICAgIAo",
+					"AQAAAAAAAAABAAAAvjgAAAAAAAAgNAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					722,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAANk7AAAAAAAA2jsAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2TsAAAAAAADZOwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					739,
+					1,
+					"paste",
+					null,
+					"AgAAANs7AAAAAAAAJT0AAAAAAAAAAAAAJT0AAAAAAAAlPQAAAAAAANoAAAAgICAgICAgICAgICAgICAgICAgIGRhdGEuYWRkKHNlcnZpY2VfaXRlbSk7CiAgICAgICAgICAgICAgICAgICAgZGF0YS5hZGQobmFtZV9pdGVtKTsKICAgICAgICAgICAgICAgICAgICBkYXRhLmFkZChkZXNjcmlwdGlvbl9pdGVtKTsKICAgICAgICAgICAgICAgICAgICBkYXRhLmFkZChzdGF0dXNfaXRlbSk7CiAgICAgICAgICAgICAgICAgICAgZGF0YS5hZGQocHJpY2VfaXRlbSk7Cg",
+					"AQAAAAAAAAABAAAAtTwAAAAAAADbOwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					744,
+					1,
+					"insert",
+					{
+						"characters": "Payments"
+					},
+					"CQAAACUzAAAAAAAAJjMAAAAAAAAAAAAAJjMAAAAAAAAmMwAAAAAAAAgAAABTZXJ2aWNlcyYzAAAAAAAAJzMAAAAAAAAAAAAAJzMAAAAAAAAoMwAAAAAAAAAAAAAoMwAAAAAAACkzAAAAAAAAAAAAACkzAAAAAAAAKjMAAAAAAAAAAAAAKjMAAAAAAAArMwAAAAAAAAAAAAArMwAAAAAAACwzAAAAAAAAAAAAACwzAAAAAAAALTMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJTMAAAAAAAAtMwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					750,
+					1,
+					"insert",
+					{
+						"characters": "Payments"
+					},
+					"CQAAAJ0yAAAAAAAAnjIAAAAAAAAAAAAAnjIAAAAAAACeMgAAAAAAAAgAAABTZXJ2aWNlc54yAAAAAAAAnzIAAAAAAAAAAAAAnzIAAAAAAACgMgAAAAAAAAAAAACgMgAAAAAAAKEyAAAAAAAAAAAAAKEyAAAAAAAAojIAAAAAAAAAAAAAojIAAAAAAACjMgAAAAAAAAAAAACjMgAAAAAAAKQyAAAAAAAAAAAAAKQyAAAAAAAApTIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnTIAAAAAAAClMgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					761,
+					1,
+					"insert",
+					{
+						"characters": "Response"
+					},
+					"CQAAABgvAAAAAAAAGS8AAAAAAAAAAAAAGS8AAAAAAAAZLwAAAAAAAAQAAAB2b2lkGS8AAAAAAAAaLwAAAAAAAAAAAAAaLwAAAAAAABsvAAAAAAAAAAAAABsvAAAAAAAAHC8AAAAAAAAAAAAAHC8AAAAAAAAdLwAAAAAAAAAAAAAdLwAAAAAAAB4vAAAAAAAAAAAAAB4vAAAAAAAAHy8AAAAAAAAAAAAAHy8AAAAAAAAgLwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGC8AAAAAAAAcLwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					764,
+					2,
+					"left_delete",
+					null,
+					"AgAAANZCAAAAAAAA1kIAAAAAAAABAAAAfdJCAAAAAAAA0kIAAAAAAAAEAAAAICAgIA",
+					"AQAAAAAAAAABAAAA10IAAAAAAADXQgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					766,
+					5,
+					"left_delete",
+					null,
+					"BQAAANRCAAAAAAAA1EIAAAAAAAABAAAACtNCAAAAAAAA00IAAAAAAAABAAAACtJCAAAAAAAA0kIAAAAAAAABAAAACtFCAAAAAAAA0UIAAAAAAAABAAAACtBCAAAAAAAA0EIAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAA1UIAAAAAAADVQgAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					771,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAADkCAAAAAAAAOgIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOQIAAAAAAAA5AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					772,
+					1,
+					"paste",
+					null,
+					"AQAAADoCAAAAAAAAhgIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOgIAAAAAAAA6AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					773,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAIYCAAAAAAAAhwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhgIAAAAAAACGAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					782,
+					1,
+					"left_delete",
+					null,
+					"AQAAADkCAAAAAAAAOQIAAAAAAAA0AAAACmltcG9ydCBqYXZhLnV0aWwuSGFzaE1hcDsKaW1wb3J0IGphdmEudGltZS5JbnN0YW50Ow",
+					"AQAAAAAAAAABAAAAbQIAAAAAAAA5AgAAAAAAAAAAAAAAwGJA"
+				],
+				[
+					784,
+					1,
+					"left_delete",
+					null,
+					"AQAAADkCAAAAAAAAOQIAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAOgIAAAAAAAA6AgAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					787,
+					1,
+					"paste",
+					null,
+					"AgAAALQBAAAAAAAAHgIAAAAAAAAAAAAAHgIAAAAAAAAeAgAAAAAAADQAAABpbXBvcnQgY29tLmZhc3RlcnhtbC5qYWNrc29uLmRhdGFiaW5kLk9iamVjdE1hcHBlcjsK",
+					"AQAAAAAAAAABAAAAtAEAAAAAAADoAQAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					788,
+					1,
+					"insert",
+					{
+						"characters": "z"
+					},
+					"AQAAAB4CAAAAAAAAHwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHgIAAAAAAAAeAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					789,
+					1,
+					"left_delete",
+					null,
+					"AQAAAB4CAAAAAAAAHgIAAAAAAAABAAAAeg",
+					"AQAAAAAAAAABAAAAHwIAAAAAAAAfAgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "src/main/java/com/spa/userpayments/models/apis/Response.java",
+			"settings":
+			{
+				"buffer_size": 2608,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "src/main/java/com/spa/userpayments/services/MainService.java",
+			"settings":
+			{
+				"buffer_size": 414,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "RE"
+					},
+					"AwAAAAUBAAAAAAAABgEAAAAAAAAAAAAABgEAAAAAAAAGAQAAAAAAAAQAAAB2b2lkBgEAAAAAAAAHAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABQEAAAAAAAAJAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAYBAAAAAAAABgEAAAAAAAABAAAARQ",
+					"AQAAAAAAAAABAAAABwEAAAAAAAAHAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "esponse"
+					},
+					"BwAAAAYBAAAAAAAABwEAAAAAAAAAAAAABwEAAAAAAAAIAQAAAAAAAAAAAAAIAQAAAAAAAAkBAAAAAAAAAAAAAAkBAAAAAAAACgEAAAAAAAAAAAAACgEAAAAAAAALAQAAAAAAAAAAAAALAQAAAAAAAAwBAAAAAAAAAAAAAAwBAAAAAAAADQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABgEAAAAAAAAGAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": "Operation"
+					},
+					"CQAAABoBAAAAAAAAGwEAAAAAAAAAAAAAGwEAAAAAAAAcAQAAAAAAAAAAAAAcAQAAAAAAAB0BAAAAAAAAAAAAAB0BAAAAAAAAHgEAAAAAAAAAAAAAHgEAAAAAAAAfAQAAAAAAAAAAAAAfAQAAAAAAACABAAAAAAAAAAAAACABAAAAAAAAIQEAAAAAAAAAAAAAIQEAAAAAAAAiAQAAAAAAAAAAAAAiAQAAAAAAACMBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGgEAAAAAAAAaAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": "Response"
+					},
+					"CQAAAFEBAAAAAAAAUgEAAAAAAAAAAAAAUgEAAAAAAABSAQAAAAAAAAQAAAB2b2lkUgEAAAAAAABTAQAAAAAAAAAAAABTAQAAAAAAAFQBAAAAAAAAAAAAAFQBAAAAAAAAVQEAAAAAAAAAAAAAVQEAAAAAAABWAQAAAAAAAAAAAABWAQAAAAAAAFcBAAAAAAAAAAAAAFcBAAAAAAAAWAEAAAAAAAAAAAAAWAEAAAAAAABZAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUQEAAAAAAABVAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": "Operation"
+					},
+					"CQAAAGoBAAAAAAAAawEAAAAAAAAAAAAAawEAAAAAAABsAQAAAAAAAAAAAABsAQAAAAAAAG0BAAAAAAAAAAAAAG0BAAAAAAAAbgEAAAAAAAAAAAAAbgEAAAAAAABvAQAAAAAAAAAAAABvAQAAAAAAAHABAAAAAAAAAAAAAHABAAAAAAAAcQEAAAAAAAAAAAAAcQEAAAAAAAByAQAAAAAAAAAAAAByAQAAAAAAAHMBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAagEAAAAAAABqAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "src/main/resources/application.properties",
+			"settings":
+			{
+				"buffer_size": 1778,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					2,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAARAAAAc2VydmVyLnBvcnQ9ODA5OAo",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAARAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					11,
+					1,
+					"paste",
+					null,
+					"AQAAAKEEAAAAAAAAwQQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAoQQAAAAAAAChBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAMEEAAAAAAAAwgQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAwQQAAAAAAADBBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"paste",
+					null,
+					"AQAAAKAEAAAAAAAA1gQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAoAQAAAAAAACgBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"paste",
+					null,
+					"AQAAAMwGAAAAAAAAFAcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzAYAAAAAAADMBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					41,
+					1,
+					"paste",
+					null,
+					"AgAAALoEAAAAAAAAzQQAAAAAAAAAAAAAzQQAAAAAAADNBAAAAAAAABYAAAByZWplY3RlZF9tcGVzYV9yZXF1ZXN0",
+					"AQAAAAAAAAABAAAAugQAAAAAAADQBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"paste",
+					null,
+					"AgAAAOIGAAAAAAAA9QYAAAAAAAAAAAAA9QYAAAAAAAD1BgAAAAAAABYAAAByZWplY3RlZF9tcGVzYV9yZXF1ZXN0",
+					"AQAAAAAAAAABAAAA4gYAAAAAAAD4BgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					52,
+					1,
+					"left_delete",
+					null,
+					"AQAAANQEAAAAAAAA1AQAAAAAAAAhAAAAcmVzcG9uc2Vjb2RlX3NlcnZpY2Vfbm90X3ByZXNlbnQK",
+					"AQAAAAAAAAABAAAA1AQAAAAAAAD1BAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					54,
+					2,
+					"left_delete",
+					null,
+					"AgAAANUEAAAAAAAA1QQAAAAAAAABAAAACtQEAAAAAAAA1AQAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAA1gQAAAAAAADWBAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					55,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAANQEAAAAAAAA1QQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1AQAAAAAAADUBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					57,
+					2,
+					"left_delete",
+					null,
+					"AgAAACkFAAAAAAAAKQUAAAAAAAABAAAACigFAAAAAAAAKAUAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAKgUAAAAAAAAqBQAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					58,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAACgFAAAAAAAAKQUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKAUAAAAAAAAoBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					61,
+					1,
+					"left_delete",
+					null,
+					"AQAAANEEAAAAAAAA0QQAAAAAAAABAAAAMw",
+					"AQAAAAAAAAABAAAA0gQAAAAAAADSBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					62,
+					1,
+					"insert",
+					{
+						"characters": "4"
+					},
+					"AQAAANEEAAAAAAAA0gQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0QQAAAAAAADRBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					71,
+					1,
+					"left_delete",
+					null,
+					"AQAAANMGAAAAAAAA0wYAAAAAAAAYAAAAUmVqZWN0ZWQgbXBlc2EgcmVxdWVzdC4K",
+					"AQAAAAAAAAABAAAA0wYAAAAAAADrBgAAAAAAAAAAAAAA4HNA"
+				],
+				[
+					80,
+					1,
+					"insert",
+					{
+						"characters": "payments"
+					},
+					"EgAAAL8GAAAAAAAAwAYAAAAAAAAAAAAAwAYAAAAAAADABgAAAAAAAAcAAABzZXJ2aWNlugQAAAAAAAC7BAAAAAAAAAAAAAC7BAAAAAAAALsEAAAAAAAABwAAAHNlcnZpY2W6BgAAAAAAALsGAAAAAAAAAAAAALsEAAAAAAAAvAQAAAAAAAAAAAAAvAYAAAAAAAC9BgAAAAAAAAAAAAC8BAAAAAAAAL0EAAAAAAAAAAAAAL4GAAAAAAAAvwYAAAAAAAAAAAAAvQQAAAAAAAC+BAAAAAAAAAAAAADABgAAAAAAAMEGAAAAAAAAAAAAAL4EAAAAAAAAvwQAAAAAAAAAAAAAwgYAAAAAAADDBgAAAAAAAAAAAAC/BAAAAAAAAMAEAAAAAAAAAAAAAMQGAAAAAAAAxQYAAAAAAAAAAAAAwAQAAAAAAADBBAAAAAAAAAAAAADGBgAAAAAAAMcGAAAAAAAAAAAAAMEEAAAAAAAAwgQAAAAAAAAAAAAA",
+					"AQAAAAAAAAACAAAAugQAAAAAAADBBAAAAAAAAAAAAAAAAPC/vwYAAAAAAADGBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					81,
+					1,
+					"left_delete",
+					null,
+					"AgAAAMcGAAAAAAAAxwYAAAAAAAABAAAAc8EEAAAAAAAAwQQAAAAAAAABAAAAcw",
+					"AQAAAAAAAAACAAAAwgQAAAAAAADCBAAAAAAAAAAAAAAAAPC/yAYAAAAAAADIBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					84,
+					1,
+					"insert",
+					{
+						"characters": "Payment"
+					},
+					"BwAAANMGAAAAAAAA1AYAAAAAAAAAAAAA1AYAAAAAAADVBgAAAAAAAAAAAADVBgAAAAAAANYGAAAAAAAAAAAAANYGAAAAAAAA1wYAAAAAAAAAAAAA1wYAAAAAAADYBgAAAAAAAAAAAADYBgAAAAAAANkGAAAAAAAAAAAAANkGAAAAAAAA2gYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0wYAAAAAAADTBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					85,
+					1,
+					"insert",
+					{
+						"characters": " not"
+					},
+					"BAAAANoGAAAAAAAA2wYAAAAAAAAAAAAA2wYAAAAAAADcBgAAAAAAAAAAAADcBgAAAAAAAN0GAAAAAAAAAAAAAN0GAAAAAAAA3gYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2gYAAAAAAADaBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					86,
+					1,
+					"insert",
+					{
+						"characters": " present"
+					},
+					"CAAAAN4GAAAAAAAA3wYAAAAAAAAAAAAA3wYAAAAAAADgBgAAAAAAAAAAAADgBgAAAAAAAOEGAAAAAAAAAAAAAOEGAAAAAAAA4gYAAAAAAAAAAAAA4gYAAAAAAADjBgAAAAAAAAAAAADjBgAAAAAAAOQGAAAAAAAAAAAAAOQGAAAAAAAA5QYAAAAAAAAAAAAA5QYAAAAAAADmBgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3gYAAAAAAADeBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					87,
+					1,
+					"insert",
+					{
+						"characters": " on"
+					},
+					"AwAAAOYGAAAAAAAA5wYAAAAAAAAAAAAA5wYAAAAAAADoBgAAAAAAAAAAAADoBgAAAAAAAOkGAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5gYAAAAAAADmBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					88,
+					1,
+					"insert",
+					{
+						"characters": " db."
+					},
+					"BAAAAOkGAAAAAAAA6gYAAAAAAAAAAAAA6gYAAAAAAADrBgAAAAAAAAAAAADrBgAAAAAAAOwGAAAAAAAAAAAAAOwGAAAAAAAA7QYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6QYAAAAAAADpBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					89,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAO0GAAAAAAAA7gYAAAAAAAAAAAAA7gYAAAAAAADvBgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7QYAAAAAAADtBgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-payments",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-payments/src",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-payments/src/main",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-payments/src/main/java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-payments/src/main/java/com",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-payments/src/main/java/com/spa",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-payments/src/main/java/com/spa/userpayments",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-payments/src/main/java/com/spa/userpayments/controllers",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-payments/src/main/java/com/spa/userpayments/models",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-payments/src/main/java/com/spa/userpayments/models/apis",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-payments/src/main/java/com/spa/userpayments/models/db",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-payments/src/main/java/com/spa/userpayments/services",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-payments/src/main/java/com/spa/userpayments/services/commonservices",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-payments/src/main/java/com/spa/userpayments/services/operations",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-payments/src/main/resources"
+	],
+	"file_history":
+	[
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-payments/src/main/java/com/spa/userpayments/services/MainService.java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-payments/src/main/java/com/spa/userpayments/services/operations/MainServiceImpl.java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-payments/src/main/java/com/spa/userpayments/controllers/MainController.java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-payments/src/main/java/com/spa/userpayments/services/operations/DBOperations.java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-payments/src/main/java/com/spa/userpayments/models/apis/mpesa/C2BRequest.java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-payments/src/main/java/com/spa/userpayments/services/commonservices/Utilities.java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-payments/src/main/java/com/spa/userpayments/models/apis/Request.java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-payments/src/main/java/com/spa/userpayments/models/apis/mpesa/C2BResult.java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-payments/src/main/java/com/spa/userpayments/models/apis/mpesa/C2BResponse.java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-payments/src/main/resources/application.properties",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-payments/src/main/java/com/spa/userpayments/models/apis/mpesa/AuthResponse.java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-payments/src/main/java/com/spa/userpayments/services/operations/SubOperations.java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-payments/pom.xml",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-payments/src/main/java/com/spa/userpayments/models/db/Payments.java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-payments/src/main/java/com/spa/userpayments/models/apis/Response.java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-payments/user-payments",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/MPESA_TEP_CELLID_ACTIVATION/Implementation/customer-buy-bundles/Dockerfile",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/UserOnboarding/src/main/java/com/spa/useronboarding/controllers/MainController.java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/UserOnboarding/src/main/java/com/spa/useronboarding/services/commonservices/Utilities.java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/UserOnboarding/src/main/java/com/spa/useronboarding/services/operations/MainserviceImpl.java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/UserOnboarding/src/main/java/com/spa/useronboarding/services/MainService.java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/UserOnboarding/src/main/java/com/spa/useronboarding/services/operations/DBOperations.java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/UserOnboarding/src/main/java/com/spa/useronboarding/entities/db/Users.java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/UserOnboarding/src/main/java/com/spa/useronboarding/entities/apis/Response.java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/UserOnboarding/src/main/resources/application.properties",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/UserOnboarding/src/main/resources/data.sql",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/UserOnboarding/src/main/resources/schema.sql",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/UserOnboarding/src/main/java/com/spa/useronboarding/services/operations/SubOperations.java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/UserOnboarding/src/main/java/com/spa/useronboarding/controllers/ExceptionController.java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/UserOnboarding/pom.xml",
+		"/home/Miano/temp",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/UserOnboarding/src/main/java/com/spa/useronboarding/UserOnboardingApplication.java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/UserOnboarding/src/main/java/com/spa/useronboarding/repos/UserRepo.java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/UserOnboarding/src/main/java/com/spa/useronboarding/entities/apis/Request.java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/UserOnboarding/src/main/java/com/spa/useronboarding/services/operations/DbOperations.java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/UserOnboarding/src/main/java/com/spa/useronboarding/repos/User_requestRepo.java",
+		"/media/Miano/Miano/Documents/Learning Center/SpringBoot Project/spring notes",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/CAB/CVC/UPDATING QOA/Summary",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/FLOAT CHECKER/Implementation/fs-float-checker/src/main/java/com/saf/fsfloatchecker/services/operations/MainServiceImpl.java",
+		"/home/Miano/Documents/SOAP UI/G2-Sync-Requests-soapui-project.xml",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/FLOAT CHECKER/Implementation/fs-float-checker/src/main/java/com/saf/fsfloatchecker/models/Request.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/FLOAT CHECKER/Implementation/fs-float-checker/.gitignore",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/FLOAT CHECKER/Implementation/fs-float-checker/src/main/java/com/saf/fsfloatchecker/services/operations/SubOperations.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/FLOAT CHECKER/Implementation/fs-float-checker/src/main/java/com/saf/fsfloatchecker/services/MainService.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/FLOAT CHECKER/Implementation/fs-float-checker/src/main/java/com/saf/fsfloatchecker/services/commonservices/Utilities.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/FLOAT CHECKER/Implementation/fs-float-checker/src/main/resources/application.properties",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/FLOAT CHECKER/Implementation/fs-float-checker/src/main/java/com/saf/fsfloatchecker/models/Response.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/FLOAT CHECKER/Implementation/fs-float-checker/src/main/java/com/saf/fsfloatchecker/controllers/MainController.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/FLOAT CHECKER/Implementation/fs-float-checker/src/main/java/com/saf/fsfloatchecker/controllers/ExceptionController.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/FLOAT CHECKER/Implementation/fs-float-checker/pom.xml",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/FLOAT CHECKER/Implementation/fs-float-checker/src/main/resources/wsdl/CBPInterface_API_Request_Sync.wsdl",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/FLOAT CHECKER/Implementation/fs-float-checker/src/main/java/com/mpesa/schemapis/com/huawei/cps/cpsinterface/customizedresult/ObjectFactory.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/FLOAT CHECKER/Implementation/fs-float-checker/src/main/java/com/saf/fsfloatchecker/FsFloatCheckerApplication.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/FLOAT CHECKER/Implementation/fs-float-checker/src/main/java/com/saf/fsfloatchecker/services/MainServiceImpl.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/cvc-card-operations-master/src/main/resources/application.properties",
+		"/media/Miano/Miano/Documents/Others/Vivian/Teaching project/demo/pom.xml",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/ms-cvc-card-operations/src/main/resources/application.properties",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/ms-cvc-card-operations/src/main/java/virtualcard/cvc/cardoperations/MainApplication.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/ms-cvc-card-operations/pom.xml",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/ms-cvc-card-operations/src/main/resources/bootstrap.properties",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/ms-cvc-card-operations/src/main/resources/boostrap.properties",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/ms-cvc-card-operations/dockerfile",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/MPESA_TEP_CELLID_ACTIVATION/Implementation/customer-airtime-purchase/Dockerfile",
+		"/media/Miano/Miano/Documents/Safaricom/Notes/Update Image on Openshift",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/ms-cvc-vtc/pom.xml",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/ms-cvc-vtc/src/main/resources/application.properties",
+		"/home/Miano/.ssh/id_rsa.pub",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/ms-cvc-card-operations/cvc-cardoperations.sublime-project",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/cvc-card-operations-master/src/main/java/virtualcard/cvc/cardoperations/services/operations/CardServices.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/cvc-card-operations-master/src/main/java/virtualcard/cvc/cardoperations/services/operations/DBOperations.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/cvc-card-operations-master/src/main/java/virtualcard/cvc/cardoperations/services/operations/SubOperations.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/cvc-card-operations-master/target/generated-sources/cxf/com/huawei/cps/cpsinterface/customizedrequest/ObjectFactory.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/cvc-card-operations-master/target/generated-sources/cxf/com/safaricom/merchantcheckout/CheckoutHeader.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/cvc-card-operations-master/src/main/java/virtualcard/cvc/commonservices/services/UtilitiesImpl.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/cvc-card-operations-master/src/main/java/virtualcard/cvc/cardoperations/services/MainServiceImpl.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/cvc-card-operations-master/src/main/java/virtualcard/cvc/cardoperations/MainApplication.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/cvc-card-operations-master/pom.xml",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/cvc-card-operations-master/src/main/java/virtualcard/cvc/commonservices/services/pinverification/CustomerPinVerificationImpl.java",
+		"/home/Miano/customerairtimeproperties",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/cvc-card-operations-master/target/generated-sources/cxf/com/huawei/cps/cpsinterface/request/ObjectFactory.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/cvc-card-operations-master/target/generated-sources/cxf/com/huawei/cps/cpsinterface/request/QueryCustomerInfoRequest.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/cvc-card-operations-master/target/generated-sources/cxf/com/huawei/cps/cpsinterface/api_requestmgr/ObjectFactory.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/cvc-card-operations-master/src/main/java/virtualcard/cvc/cardoperations/repos/db/CardOperationsAuditRepo.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/cvc-card-operations-master/src/main/java/virtualcard/cvc/cardoperations/models/db/CardOperationsAudit.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/cvc-card-operations-master/src/main/java/virtualcard/cvc/cardoperations/services/MainService.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/cvc-card-operations-master/dockerfile",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/cvc-card-operations-master/src/main/java/virtualcard/cvc/cardoperations/models/db/Customers.java",
+		"/media/Miano/Miano/Documents/Learning Center/Codility/Maxcounters.java",
+		"/etc/hosts",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/resources/application.properties",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/services/operations/DBOperations.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/services/operations/SubOperations.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/MainApplication.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/controllers/MainController.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/services/MainServiceImpl.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/models/apis/TutukaResponse.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/commonservices/services/UtilitiesImpl.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/controllers/ExceptionController.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/models/apis/TutukaRequest.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/services/operations/CardServices.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/commonservices/services/Utilities.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/commonservices/models/db/Caller.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/models/db/Messages.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/commonservices/models/sms/SMSTemplate.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/models/db/CardOperations.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/models/db/Customers.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/repos/db/CustomersRepo.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/repos/db/MessagesRepo.java",
+		"/media/Miano/Miano/Documents/Safaricom/Credentials/tibco DMZ",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/repos/db/CardOperationsRepo.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/services/MainService.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/commonservices/models/apis/ResponseTemplate.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/commonservices/models/apis/RequestTemplate.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/services/operations/CardOperations.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/OneDrive_2022-08-20/cardoperations (1)/src/main/java/virtualcard/cvc/cardoperations/models/CardOperationsRequest.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/repos/db/CallerRepo.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/commonservices/models/g2/StkCallBack.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/commonservices/services/pinverification/ResponseCodes.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/commonservices/services/pinverification/Helpers.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/commonservices/services/pinverification/CustomerPinVerificationImpl.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/commonservices/services/pinverification/CustomerPinVerification.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/commonservices/repos/db/CallerRepo.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/commonservices/services/proxy/ApiProxyImpl.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/commonservices/services/proxy/ApiProxy.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/services/operations/dboperations",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/services/suboperations/cardoperations",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/services/suboperations/suboperations.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/CardoperationsApplication.java"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fetchAllServices",
+			"ArrayList",
+			"service_details_json",
+			"fetchAllServices",
+			"service_item",
+			"service.get",
+			"service",
+			"services_list",
+			"fetchAllServices",
+			"service_not_present",
+			"rejected_mpesa_request",
+			"service_not_present",
+			"service.get",
+			"service",
+			"price",
+			"price_item",
+			"status_item",
+			"description_item",
+			"payment_item",
+			"name_item",
+			"service_item",
+			"service",
+			"fetchServiceDetails",
+			"checkServiceisPresent",
+			"checkEmailisPresent",
+			"Mapper",
+			"mapper",
+			"request.set",
+			"request",
+			"failure",
+			"generateAuthCredentials_response.get(\"access_token\")",
+			"apis",
+			"if()",
+			"internal_exception",
+			"saveService",
+			"useroperations",
+			"responsecode",
+			"useroperations",
+			"ResponseDescription",
+			"TransactionType",
+			"Timestamp",
+			"Password",
+			"BusinessShortCode",
+			"PhoneNumber",
+			"PartyB",
+			"PartyA",
+			"Amount",
+			"private ServiceRequest",
+			"ServiceRequest",
+			"serviceRequest",
+			"ServiceRequest",
+			"price",
+			"status",
+			"description",
+			"name",
+			"login",
+			"loginOperation",
+			";",
+			"Response",
+			"useroperations",
+			"email_not_unique",
+			"saveUser",
+			"request.getServiceRequest().getHeader().getRequestRefID().toString()",
+			"register",
+			"count",
+			"ingredient",
+			"subOperations",
+			"failed_saving_user",
+			"responsecode",
+			"detailedmsg",
+			"floatchecker",
+			"useronboarding",
+			"not null",
+			"floatchecker",
+			"println()",
+			" \t"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main/java/com/spa/userpayments/services/operations/DBOperations.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6499,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5505,
+								5505
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3017.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/main/java/com/spa/userpayments/controllers/MainController.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7799,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5914,
+								5914
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2243.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/main/java/com/spa/userpayments/services/operations/MainServiceImpl.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								542,
+								542
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 110.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/main/java/com/spa/userpayments/models/apis/Response.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2608,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								249,
+								277
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/main/java/com/spa/userpayments/services/MainService.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 414,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								371,
+								371
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/main/resources/application.properties",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1778,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1774,
+								1774
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/JavaProperties.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 248.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "user-payments.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 443.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
